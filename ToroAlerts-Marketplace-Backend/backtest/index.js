@@ -155,9 +155,7 @@ exports.initCheckBacktests = () => {
         {
           $set: {
             status: "approved",
-            backTest: {
-              approved: true,
-            },
+            "backTest.approved": true,
           },
         }
       )
