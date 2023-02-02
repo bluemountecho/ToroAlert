@@ -24,6 +24,9 @@ app.use("/*", (req, res) => {
   });
 });
 
+// ***** cron jobs for backtest ***** //
+const backTestCheck = require('./backtest');
+
 //ff code will changes in prod
 app.use((err, req, res, next) => {
   if (err) {
@@ -36,6 +39,9 @@ app.use((err, req, res, next) => {
     next();
   }
 });
+
+// Call the backtesting function
+backTestCheck.initCheckBacktests();
 
 const port = process.env.PORT || 5000;
 
