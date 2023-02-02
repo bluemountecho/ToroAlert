@@ -1,0 +1,54 @@
+input[type="checkbox"].switch {
+  position: absolute;
+  opacity: 0;
+}
+
+input[type="checkbox"].switch + div {
+  vertical-align: middle;
+  width: 40px;
+  height: 20px;
+  border-radius: 999px;
+
+  -webkit-transition-duration: 0.4s;
+  transition-duration: 0.4s;
+  -webkit-transition-property: background-color, box-shadow;
+  transition-property: background-color, box-shadow;
+  cursor: pointer;
+}
+
+input[type="checkbox"].switch:checked + div {
+  width: 30px;
+  background-position: 0 0;
+}
+
+input[type="checkbox"].switch + div {
+  width: 30px;
+  height: 28px;
+}
+
+input[type="checkbox"].switch:checked + div {
+  width: 30px;
+  height: 28px;
+}
+
+input[type="checkbox"].switch + div > div {
+  float: left;
+  width: 25px;
+  height: 25px;
+  border-radius: inherit;
+  background: #ffffff;
+  -webkit-transition-timing-function: cubic-bezier(1, 0, 0, 1);
+  transition-timing-function: cubic-bezier(1, 0, 0, 1);
+  -webkit-transition-duration: 0.1s;
+  transition-duration: 0.1s;
+  -webkit-transition-property: transform, background-color;
+  transition-property: transform, background-color;
+  pointer-events: none;
+  margin-top: 1px;
+  margin-left: -2px;
+}
+
+input[type="checkbox"].switch:checked + div > div {
+  -webkit-transform: translate3d(10px, 0, 0);
+  transform: translate3d(10px, 0, 0);
+}

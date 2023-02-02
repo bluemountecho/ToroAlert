@@ -1,0 +1,35 @@
+.checkbox[type="checkbox"] {
+  -webkit-appearance: none;
+  appearance: none;
+  background: none;
+  width: 20px;
+  height: 20px;
+  border: 1px solid #072c9e;
+  border-radius: 2px;
+  display: inline-block;
+  position: relative;
+  cursor: pointer;
+}
+.checkbox[type="checkbox"]:active {
+  box-shadow: inset 0 0 0 0.125rem #ffffff;
+}
+.checkbox[type="checkbox"]:checked {
+  background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 24 24"><path d="M0,0H24V24H0Z" fill="none"/><path d="M19,3H5A2,2,0,0,0,3,5V19a2,2,0,0,0,2,2H19a2,2,0,0,0,2-2V5A2,2,0,0,0,19,3ZM10,17,5,12l1.41-1.41L10,14.17l7.59-7.59L19,8Z" fill="rgb(0, 33, 114)"/></svg>');
+  background-position: center;
+  box-shadow: none;
+}
+.checkbox[type="checkbox"]:checked:active {
+  opacity: 0.9;
+}
+.checkbox[type="checkbox"]::before {
+  content: "";
+  display: inline-block;
+  height: 100%;
+  width: 100%;
+  background-color: rgba(41, 98, 255, 0);
+  position: absolute;
+  border-radius: 50%;
+  transform: scale(0.5);
+  transition: transform 0.2s ease-in-out, background-color 0.2s ease-in-out;
+  will-change: transform background-color;
+}

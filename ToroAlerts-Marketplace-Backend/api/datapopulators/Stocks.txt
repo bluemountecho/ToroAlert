@@ -1,0 +1,3419 @@
+CGNX      	Cognex Corporation
+EA        	Electronic Arts Inc.
+FELE      	Franklin Electric Co., Inc.
+MAN       	ManpowerGroup
+MCHP      	Microchip Technology Incorporat
+SPYD      	SPDR Series Trust SPDR Portfoli
+CARA      	Cara Therapeutics, Inc.
+MAC       	Macerich Company
+MMM       	3M Company
+TK        	Teekay Corporation
+TSLX      	Sixth Street Specialty Lending,
+APPF      	AppFolio, Inc.
+LSXMK     	Liberty Media Corporation - Ser
+PBTS      	Powerbridge Technologies Co., L
+AOR       	iShares Core Growth Allocation
+COP       	ConocoPhillips
+FSTA      	Fidelity MSCI COnsumer Staples
+JPM       	JP Morgan Chase &amp; Co.
+LEA       	Lear Corporation
+RJF       	Raymond James Financial, Inc.
+RWJ       	Invesco Exchange-Traded Fund Tr
+NVEI      	Nuvei Corporation - Subordinate
+AYI       	Acuity Brands, Inc.
+CBRE      	CBRE Group Inc
+CENTA     	Central Garden &amp; Pet Company
+DHS       	WisdomTree U.S. High Dividend F
+EXPR      	Express, Inc.
+FISV      	Fiserv, Inc.
+WIRE      	Encore Wire Corporation
+LMBS      	First Trust Low Duration Opport
+DIVO      	Amplify CWP Enhanced Dividend I
+DGRO      	iShares Core Dividend Growth ET
+KFY       	Korn Ferry
+SPMD      	SPDR Portfolio S&amp;P 400 Mid Cap
+STWD      	STARWOOD PROPERTY TRUST, INC. S
+YETI      	YETI Holdings, Inc.
+SWAN      	Amplify ETF Trust Amplify Black
+NOVA      	Sunnova Energy International In
+AER       	AerCap Holdings N.V.
+CWT       	California Water Service Group
+EXEL      	Exelixis, Inc.
+IBKR      	Interactive Brokers Group, Inc.
+IJK       	iShares S&amp;P Mid-Cap 400 Growth
+KLIC      	Kulicke and Soffa Industries, I
+ARKF      	ARK Fintech Innovation ETF
+ELP       	Companhia Paranaense de Energia
+HTHT      	Huazhu Group Limited
+IYF       	iShares U.S. Financial ETF
+OMC       	Omnicom Group Inc.
+Y         	Alleghany Corporation
+DCUE      	Dominion Energy, Inc. 2019 Seri
+DVYE      	iShares Emerging Markets Divide
+LYB       	LyondellBasell Industries NV
+PLD       	Prologis, Inc.
+SIL       	Global X Silver Miners ETF
+XLRN      	Acceleron Pharma Inc.
+ACI       	Albertsons Companies, Inc.
+TLS       	Telos Corporation
+ARW       	Arrow Electronics, Inc.
+RDIV      	Invesco Exchange-Traded Fund Tr
+ULST      	SPDR SSgA Ultra Short Term Bond
+VONG      	Vanguard Russell 1000 Growth ET
+VUG       	Vanguard Growth ETF
+VUZI      	Vuzix Corporation
+CIBR      	First Trust NASDAQ Cybersecurit
+JWSM      	Jaws Mustang Acquisition Corp.
+ARQQ      	Arqit Quantum Inc.
+ACHC      	Acadia Healthcare Company, Inc.
+CL        	Colgate-Palmolive Company
+NBR       	Nabors Industries Ltd.
+VOYA      	Voya Financial, Inc.
+XLY       	SPDR Select Sector Fund - Consu
+APA       	APA Corporation
+ARE       	Alexandria Real Estate Equities
+FBT       	First Trust Amex Biotech Index
+FXO       	First Trust Financials AlphaDEX
+ON        	ON Semiconductor Corporation
+RHP       	Ryman Hospitality Properties, I
+KNSL      	Kinsale Capital Group, Inc.
+LFG       	Archaea Energy Inc.
+CMA       	Comerica Incorporated
+EPI       	WisdomTree India Earnings Fund
+EXAS      	Exact Sciences Corporation
+TCBI      	Texas Capital Bancshares, Inc.
+VOD       	Vodafone Group Plc
+JEPI      	JPMorgan Equity Premium Income
+ZIM       	ZIM Integrated Shipping Service
+AMRN      	Amarin Corporation plc
+EWX       	SPDR S&amp;P Emerging Markets Small
+PBF       	PBF Energy Inc.
+RIO       	Rio Tinto Plc
+CAI       	CAI International, Inc.
+CCEP      	Coca-Cola Europacific Partners
+EGBN      	Eagle Bancorp, Inc.
+BOTZ      	Global X Robotics &amp; Artificial
+AXNX      	Axonics, Inc.
+ABMD      	ABIOMED, Inc.
+ATHM      	Autohome Inc.
+CSM       	ProShares Large Cap Core Plus
+HEI       	Heico Corporation
+KT        	KT Corporation
+SAIL      	SailPoint Technologies Holdings
+ACCD      	Accolade, Inc.
+MGM       	MGM Resorts International
+PRLB      	Proto Labs, Inc.
+JPIN      	JPMorgan Diversified Return Int
+CLOV      	Clover Health Investments, Corp
+REMX      	VanEck Rare Earth/Strategic Met
+SCHP      	Schwab U.S. TIPs ETF
+ESGU      	iShares ESG Aware MSCI USA ETF
+ADPT      	Adaptive Biotechnologies Corpor
+SI        	Silvergate Capital Corporation
+CODI      	D/B/A Compass Diversified Holdi
+LRN       	Stride, Inc.
+TGH       	Textainer Group Holdings Limite
+CDLX      	Cardlytics, Inc. Common Stock
+XPDI      	Power &amp; Digital Infrastructure
+ASB       	Associated Banc-Corp
+HON       	Honeywell International Inc.
+AVNS      	Avanos Medical, Inc.
+LTHM      	Livent Corporation
+WFG       	West Fraser Timber Co. Ltd
+OTIS      	Otis Worldwide Corporation
+DATS      	DatChat, Inc.
+HAL       	Halliburton Company
+RARE      	Ultragenyx Pharmaceutical Inc.
+RMO       	Romeo Power, Inc.
+PD        	PagerDuty, Inc.
+SWTX      	SpringWorks Therapeutics, Inc.
+PTBD      	Pacer Trendpilot US Bond ETF
+AMWL      	American Well Corporation
+CTRE      	CareTrust REIT, Inc.
+IEUR      	iShares Core MSCI Europe ETF
+RSX       	VanEck Russia ETF
+SPWR      	SunPower Corporation
+SU        	Suncor Energy  Inc.
+EWCZ      	European Wax Center, Inc.
+ACLS      	Axcelis Technologies, Inc.
+ASH       	Ashland Global Holdings Inc.
+CIG       	Comp En De Mn Cemig
+CRK       	Comstock Resources, Inc.
+UPST      	Upstart Holdings, Inc.
+CHEF      	The Chefs&#x27; Warehouse, Inc.
+MBB       	iShares MBS ETF
+TRU       	TransUnion
+ACES      	ALPS Clean Energy ETF
+ITOS      	iTeos Therapeutics, Inc.
+KSS       	Kohl&#x27;s Corporation
+PSCH      	Invesco S&amp;P SmallCap Health Car
+HLNE      	Hamilton Lane Incorporated
+PAVE      	Global X Funds Global X U.S. In
+PBUS      	Invesco PureBeta MSCI USA ETF
+LEV       	The Lion Electric Company
+FTCS      	First Trust Capital Strength ET
+MDP       	Meredith Corporation
+SLB       	Schlumberger N.V.
+NCNO      	nCino, Inc.
+MQ        	Marqeta, Inc.
+DOX       	Amdocs Limited
+EWH       	iShares MSCI Hong Kong Index Fu
+VDC       	Vanguard Consumer Staples ETF
+RYAN      	Ryan Specialty Group Holdings,
+EMLC      	VanEck J. P. Morgan EM Local Cu
+FLO       	Flowers Foods, Inc.
+ISRG      	Intuitive Surgical, Inc.
+POOL      	Pool Corporation
+ROIC      	Retail Opportunity Investments
+SRPT      	Sarepta Therapeutics, Inc.
+TER       	Teradyne, Inc.
+EQH       	Equitable Holdings, Inc.
+FROG      	JFrog Ltd.
+DFAT      	Dimensional U.S. Targeted Value
+SLVM      	Sylvamo Corporation
+ONEQ      	Fidelity Nasdaq Composite Index
+PAYX      	Paychex, Inc.
+RY        	Royal Bank Of Canada
+SFL       	SFL Corporation Ltd
+UFPI      	UFP Industries, Inc.
+EBON      	Ebang International Holdings In
+FGD       	First Trust DJ Global Select Di
+FXI       	iShares China Large-Cap ETF
+JEF       	Jefferies Financial Group Inc.
+SYK       	Stryker Corporation
+UBS       	UBS Group AG Registered
+XSD       	SPDR S&amp;P Semiconductor ETF
+SHC       	Sotera Health Company
+AOS       	A.O. Smith Corporation
+FNDX      	Schwab Fundamental U.S. Large C
+SKYW      	SkyWest, Inc.
+BSIG      	BrightSphere Investment Group I
+TDUP      	ThredUp Inc.
+BBD       	Banco Bradesco Sa
+EBAY      	eBay Inc.
+NEOG      	Neogen Corporation
+STLD      	Steel Dynamics, Inc.
+TSE       	Trinseo PLC
+VEEV      	Veeva Systems Inc.
+XLB       	Materials Select Sector SPDR
+UITB      	VictoryShares USAA Core Interme
+CCXI      	ChemoCentryx, Inc.
+GBDC      	Golub Capital BDC, Inc.
+IVZ       	Invesco Ltd
+QLTA      	iShares Aaa A Rated Corporate B
+RPAI      	Retail Properties of America, I
+VIPS      	Vipshop Holdings Limited
+NESR      	National Energy Services Reunit
+ALGM      	Allegro MicroSystems, Inc.
+CNA       	CNA Financial Corporation
+IIPR      	Innovative Industrial Propertie
+NVST      	Envista Holdings Corporation
+CNXC      	Concentrix Corporation
+IMCB      	iShares Morningstar Mid-Cap ETF
+ITUB      	Itau Unibanco Banco Holding SA
+IYE       	iShares U.S. Energy ETF
+SHOO      	Steven Madden, Ltd.
+HIMS      	Hims &amp; Hers Health, Inc.
+BR        	Broadridge Financial Solutions,
+IJH       	iShares Core S&amp;P Mid-Cap ETF
+MTOR      	Meritor, Inc.
+SBNY      	Signature Bank
+SCL       	Stepan Company
+NGVT      	Ingevity Corporation
+JPST      	JPMorgan Ultra-Short Income ETF
+MAXN      	Maxeon Solar Technologies, Ltd.
+CMBS      	iShares CMBS Bond ETF
+EBR       	Centrais Electricas Brasileiras
+FIX       	Comfort Systems USA, Inc.
+ORI       	Old Republic International Corp
+NULV      	Nuveen ESG Large-Cap Value ETF
+CACC      	Credit Acceptance Corporation
+EXP       	Eagle Materials Inc
+EXR       	Extra Space Storage Inc
+TMO       	Thermo Fisher Scientific Inc
+YELP      	Yelp Inc.
+ACMR      	ACM Research, Inc.
+VSGX      	Vanguard ESG International Stoc
+SDGR      	Schrodinger, Inc.
+BGS       	B&amp;G Foods, Inc. B&amp;G Foods, Inc.
+CIEN      	Ciena Corporation
+CRH       	CRH PLC
+ERJ       	Embraer S.A.
+HSY       	The Hershey Company
+ITW       	Illinois Tool Works Inc.
+IYK       	iShares U.S. Consumer Goods ETF
+TECH      	Bio-Techne Corp
+GSBD      	Goldman Sachs BDC, Inc.
+GSLC      	Goldman Sachs ActiveBeta U.S. L
+PLTR      	Palantir Technologies Inc.
+BXS       	BancorpSouth Bank
+GCI       	Gannett Co., Inc.
+ULTA      	Ulta Beauty, Inc.
+PSNL      	Personalis, Inc.
+COMP      	Compass, Inc.
+EWU       	iShares MSCI
+JBT       	John Bean Technologies Corporat
+RGS       	Regis Corporation
+VNET      	VNET Group, Inc.
+COUP      	Coupa Software Incorporated
+SCHA      	Schwab U.S. Small-Cap ETF
+VRNS      	Varonis Systems, Inc.
+ADM       	Archer-Daniels-Midland Company
+DVY       	iShares Select Dividend ETF
+FAS       	Direxion Financial Bull 3X Shar
+SLY       	SPDR S&amp;P 600 Small Cap ETF
+STFC      	State Auto Financial Corporatio
+THG       	Hanover Insurance Group Inc
+ARCH      	Arch Resources, Inc.
+AVLR      	Avalara, Inc.
+REPL      	Replimune Group, Inc.
+DFAC      	Dimensional ETF Trust Dimension
+PACK      	Ranpak Holdings Corp
+CAN       	Canaan Inc.
+BCO       	Brinks Company
+ISBC      	Investors Bancorp, Inc.
+PB        	Prosperity Bancshares, Inc.
+TW        	Tradeweb Markets Inc.
+AHT       	Ashford Hospitality Trust Inc
+ASHR      	Xtrackers Harvest CSI 300 China
+CLNE      	Clean Energy Fuels Corp.
+NFRA      	FlexShares STOXX Global Broad I
+CNX       	CNX Resources Corporation
+CSR       	D/B/A Centerspace
+DXJ       	WisdomTree Japan Hedged Equity
+EWBC      	East West Bancorp, Inc.
+HIG       	Hartford Financial Services Gro
+HIVE      	Hive Blockchain Technologies Lt
+MELI      	MercadoLibre, Inc.
+BHF       	Brighthouse Financial, Inc.
+KRTX      	Karuna Therapeutics, Inc.
+HCSG      	Healthcare Services Group, Inc.
+PSXP      	Phillips 66 Partners LP
+TSCO      	Tractor Supply Company
+WTFC      	Wintrust Financial Corporation
+FIVG      	Defiance Next Gen Connectivity
+RVLV      	Revolve Group, Inc.
+PPD       	PPD, Inc.
+AESC      	The AES Corporation Corporate
+A         	Agilent Technologies, Inc.
+ALV       	Autoliv, Inc.
+AMEH      	Apollo Medical Holdings, Inc.
+MNDT      	Mandiant, Inc.
+MPWR      	Monolithic Power Systems, Inc.
+SPSB      	SPDR Portfolio Short Term Corpo
+TROX      	Tronox Holdings plc
+SBOW      	SilverBow Resorces, Inc.
+VLDR      	Velodyne Lidar, Inc.
+BCAT      	Requested symbol wasn&#x27;t found
+BAP       	Credicorp Ltd.
+FV        	First Trust Dorsey Wright Focus
+IWX       	iShares Russell Top 200 Value E
+PRIM      	Primoris Services Corporation
+QTEC      	First Trust NASDAQ-100-Technolo
+SPAB      	SPDR Portfolio Aggregate Bond E
+SWX       	Southwest Gas Holdings, Inc.
+WTS       	Watts Water Technologies, Inc.
+XLE       	SPDR Select Sector Fund - Energ
+LVHD      	Legg Mason Low Volatility High
+ADP       	Automatic Data Processing, Inc.
+BRO       	Brown &amp; Brown, Inc.
+EEFT      	Euronet Worldwide, Inc.
+POR       	Portland General Electric Co
+SLV       	iShares Silver Trust
+AMJ       	JPMorgan Chase Capital XVI JP M
+BCC       	Boise Cascade, L.L.C.
+DLPN      	Dolphin Entertainment, Inc.
+RNG       	Ringcentral, Inc.
+MIME      	Mimecast Limited
+QVML      	Invesco S&amp;P 500 QVM Multi-facto
+THRX      	Theseus Pharmaceuticals, Inc.
+LGLV      	SPDR SSGA US Large Cap Low Vola
+PBH       	Prestige Consumer Healthcare In
+RCII      	Rent-A-Center Inc.
+RMBS      	Rambus, Inc.
+SD        	SandRidge Energy, Inc.
+TMFC      	Motley Fool 100 Index ETF ETF
+ESGV      	Vanguard ESG U.S. Stock ETF
+ARES      	Ares Management Corporation
+CBSH      	Commerce Bancshares, Inc.
+CVA       	Covanta Holding Corporation
+DGX       	Quest Diagnostics Incorporated
+EFA       	iShares MSCI EAFE ETF
+PNC       	PNC Financial Services Group, I
+BLOK      	Amplify Transformational Data S
+APD       	Air Products and Chemicals, Inc
+BSCN      	Invesco BulletShares 2023 Corpo
+CDE       	Coeur Mining, Inc.
+CMP       	Compass Minerals Intl Inc
+L         	Loews Corporation
+LII       	Lennox International, Inc.
+CRON      	Cronos Group Inc. Common Share
+BTBT      	Bit Digital, Inc.
+AFIN      	American Finance Trust, Inc.
+COLB      	Columbia Banking System, Inc.
+INFY      	Infosys Limited
+MSCI      	MSCI Inc
+PHO       	Invesco Water Resources ETF
+SAH       	Sonic Automotive, Inc.
+TDG       	Transdigm Group Incorporated
+THRM      	Gentherm Inc
+ATUS      	Altice USA, Inc.
+EAR       	Eargo, Inc.
+ALL       	Allstate Corporation
+ALNY      	Alnylam Pharmaceuticals, Inc.
+BKNG      	Booking Holdings Inc. Common St
+CVLT      	Commvault Systems, Inc.
+FEX       	First Trust Large Cap Core Alph
+CRTX      	Cortexyme, Inc.
+USMV      	iShares MSCI USA Min Vol Factor
+PTGX      	Protagonist Therapeutics, Inc.
+MRVL      	Marvell Technology, Inc.
+VRSK      	Verisk Analytics, Inc.
+IBDN      	iShares iBonds Dec 2022 Term Co
+HPE       	Hewlett Packard Enterprise Comp
+HNST      	The Honest Company, Inc.
+EVRI      	Everi Holdings Inc.
+TGP       	Teekay LNG Partners L.P.
+TVTX      	Travere Therapeutics, Inc.
+ASND      	Ascendis Pharma A/S
+GMRE      	Global Medical REIT Inc.
+JMBS      	Janus Henderson Mortgage-Backed
+UPH       	UpHealth, Inc.
+AVEM      	Avantis Emerging Markets Equity
+BLKB      	Blackbaud, Inc.
+LBTYK     	Liberty Global plc
+NVMI      	Nova Ltd.
+ROL       	Rollins, Inc.
+SCHC      	Schwab International Small-Cap
+SCHM      	Schwab U.S. Mid Cap ETF
+TRIL      	Trillium Therapeutics Inc.
+VG        	Vonage Holdings Corp.
+VLRS      	Controladora Vuela Compania de
+SILK      	Silk Road Medical, Inc.
+CCI       	Crown Castle International Corp
+CCK       	Crown Holdings, Inc.
+DBA       	Invesco DB Agriculture Fund
+EQC       	Equity
+IEMG      	iShares Core MSCI Emerging Mark
+PIPR      	Piper Sandler Companies
+PRTA      	Prothena Corporation plc
+RRC       	Range Resources Corporation
+STLA      	Stellantis N.V.
+HUBS      	HubSpot, Inc.
+GOOG      	Alphabet Inc.
+TTE       	TotalEnergies SE
+VNDA      	Vanda Pharmaceuticals Inc.
+SOLO      	Electrameccanica Vehicles Corp.
+HCAT      	Health Catalyst, Inc
+QS        	QuantumScape Corporation
+SKYT      	SkyWater Technology, Inc.
+EHC       	Encompass Health Corporation
+IWL       	iShares Russell Top 200 ETF
+TNA       	Direxion Small Cap Bull 3X Shar
+TNDM      	Tandem Diabetes Care, Inc.
+LAW       	CS Disco, Inc.
+ALEX      	Alexander &amp; Baldwin, Inc.
+E         	ENI S.p.A.
+GNK       	Genco Shipping &amp; Trading Limite
+KMPR      	Kemper Corporation
+MDRX      	Allscripts Healthcare Solutions
+NI        	NiSource Inc
+TT        	Trane Technologies plc
+GDDY      	GoDaddy Inc.
+BHVN      	Biohaven Pharmaceutical Holding
+MPLN      	MultiPlan Corporation
+CHTR      	Charter Communications, Inc.
+COKE      	Coca-Cola Consolidated, Inc.
+COTY      	Coty Inc.
+GPRE      	Green Plains, Inc.
+RYAAY     	Ryanair Holdings plc
+WIX       	Wix.com Ltd.
+MYOV      	Myovant Sciences Ltd.
+SPCE      	Virgin Galactic Holdings, Inc.
+SKIN      	The Beauty Health Company
+AXS       	Axis Capital Holdings Limited
+GWRE      	Guidewire Software, Inc.
+LMND      	Lemonade, Inc.
+AERI      	Aerie Pharmaceuticals, Inc.
+DVN       	Devon Energy Corporation
+EAT       	Brinker International, Inc.
+ICLR      	ICON plc
+NRZ       	New Residential Investment Corp
+XSOE      	WisdomTree Emerging Markets Ex-
+EWL       	iShares Inc iShares MSCI Switze
+INTC      	Intel Corporation
+IVOG      	Vanguard S&amp;P Mid-Cap 400 Growth
+IYR       	iShares U.S. Real Estate ETF
+JWN       	Nordstrom, Inc.
+LBTYA     	Liberty Global plc
+MDLZ      	Mondelez International, Inc.
+MIDD      	The Middleby Corporation
+PEGA      	Pegasystems Inc.
+PEY       	Invesco High Yield Equity Divid
+SCR       	Score Media and Gaming Inc. - S
+XNTK      	SPDR NYSE Technology ETF
+FITB      	Fifth Third Bancorp
+FNX       	First Trust Mid Cap Core AlphaD
+GRPN      	Groupon, Inc.
+NXST      	Nexstar Media Group, Inc.
+SCI       	Service Corporation Internation
+TREE      	LendingTree, Inc.
+XRT       	SPDR S&amp;P Retail ETF
+EMQQ      	Emerging Markets Internet and E
+KC        	Kingsoft Cloud Holdings Limited
+EFTR      	eFFECTOR Therapeutics, Inc.
+COHR      	Coherent, Inc.
+ERIE      	Erie Indemnity Company
+PEG       	Public Service Enterprise Group
+PFE       	Pfizer, Inc.
+SSB       	SouthState Corporation
+UAN       	CVR Partners, LP
+ORIC      	Oric Pharmaceuticals, Inc.
+LMACA     	Liberty Media Acquisition Corpo
+VUSB      	Vanguard Ultra-Short Bond ETF
+CVGW      	Calavo Growers, Inc.
+VEA       	Vanguard FTSE Developed Markets
+G         	Genpact Limited
+MMP       	Magellan Midstream Partners L.P
+PSA       	Public Storage
+SLAB      	Silicon Laboratories, Inc.
+IMTM      	iShares MSCI Intl Momentum Fact
+JHMM      	John Hancock Multifactor Mid Ca
+HWM       	Howmet Aerospace Inc.
+SDC       	SmileDirectClub, Inc.
+DAN       	Dana Incorporated
+GPRK      	Geopark Ltd
+OII       	Oceaneering International, Inc.
+PPC       	Pilgrim&#x27;s Pride Corporation
+RWR       	SPDR DJ Wilshire REIT ETF
+SBAC      	SBA Communications Corporation
+SRC       	Spirit Realty Capital, Inc.
+WSBC      	WesBanco, Inc.
+APPH      	AppHarvest, Inc.
+PCAR      	PACCAR Inc.
+RPM       	RPM International Inc.
+SANM      	Sanmina Corporation
+SID       	Companhia Siderurgica Nacional
+VRAY      	ViewRay, Inc.
+BHG       	Bright Health Group, Inc.
+IBB       	iShares Biotechnology ETF
+SPTL      	SPDR Portfolio Long Term Treasu
+VST       	Vistra Corp.
+ADMS      	Adamas Pharmaceuticals, Inc.
+COMM      	CommScope Holding Company, Inc.
+MDYG      	SPDR S&amp;P 400 Mid Cap Growth ETF
+SPHB      	Invesco S&amp;P 500 High Beta ETF
+SUB       	iShares Short-Term National Mun
+VIOG      	Vanguard S&amp;P Small-Cap 600 Grow
+API       	Agora, Inc.
+JOBY      	Joby Aviation, Inc.
+PRCT      	PROCEPT BioRobotics Corporation
+FDIS      	Fidelity MSCI Consumer Discreti
+URA       	Global X Uranium ETF
+PRPL      	Purple Innovation, Inc.
+GO        	Grocery Outlet Holding Corp.
+CPRT      	Copart, Inc.
+KFRC      	Kforce, Inc.
+SPY       	SPDR S&amp;P 500
+AMRX      	Amneal Pharmaceuticals, Inc.
+CMG       	Chipotle Mexican Grill, Inc.
+CVLG      	Covenant Logistics Group, Inc.
+DGRW      	WisdomTree U.S. Quality Dividen
+MRCY      	Mercury Systems Inc
+YY        	JOYY Inc.
+SHAK      	Shake Shack, Inc.
+BGNE      	BeiGene, Ltd.
+FIS       	Fidelity National Information S
+GSM       	Ferroglobe PLC
+TNET      	TriNet Group, Inc.
+WOR       	Worthington Industries, Inc.
+BOOT      	Boot Barn Holdings, Inc.
+AMLP      	Alerian MLP ETF
+IPI       	Intrepid Potash, Inc
+RUTH      	Ruth&#x27;s Hospitality Group, Inc.
+ZG        	Zillow Group, Inc.
+VSTO      	Vista Outdoor Inc.
+DPZ       	Domino&#x27;s Pizza Inc
+ENV       	Envestnet, Inc
+FNB       	F.N.B. Corporation
+FUTY      	Fidelity MSCI Utilities Index E
+IHDG      	WisdomTree International Hedged
+IJS       	iShares S&amp;P SmallCap 600 Value
+MA        	Mastercard Incorporated
+SHIP      	Seanergy Maritime Holdings Corp
+TSM       	Taiwan Semiconductor Manufactur
+MUNI      	PIMCO Intermediate Municipal Bo
+CMRE      	Costamare Inc.
+CONN      	Conn&#x27;s, Inc.
+HOMB      	Home BancShares, Inc.
+LKFN      	Lakeland Financial Corporation
+ORC       	Orchid Island Capital, Inc.
+OUT       	OUTFRONT Media Inc.
+ROCK      	Gibraltar Industries, Inc.
+SRLN      	SPDR Blackstone Senior Loan ETF
+SWKS      	Skyworks Solutions, Inc.
+BEST      	BEST Inc.
+PAGS      	PagSeguro Digital Ltd.
+AGEN      	Agenus Inc.
+BWA       	BorgWarner Inc.
+DDS       	Dillard&#x27;s, Inc.
+SMTC      	Semtech Corporation
+SPHQ      	Invesco S&amp;P 500 Quality ETF
+PJT       	PJT Partners Inc.
+PFGC      	Performance Food Group Company
+LEG       	Leggett &amp; Platt, Incorporated
+SMLR      	Semler Scientific, Inc.
+VALE      	VALE S.A.
+VPL       	Vanguard FTSE Pacific ETF
+WEC       	WEC Energy Group, Inc.
+BSCQ      	Invesco BulletShares 2026 Corpo
+IAUM      	iShares Gold Trust Micro iShare
+VVV       	Valvoline Inc.
+IBDS      	iShares iBonds Dec 2027 Term Co
+ESPO      	VanEck Video Gaming and eSports
+USSG      	Xtrackers MSCI USA ESG Leaders
+OWL       	Blue Owl Capital Inc.
+AGFY      	Agrify Corporation
+FHLC      	Fidelity MSCI Health Care Index
+NCR       	NCR Corporation
+RIG       	Transocean Ltd
+SBS       	Companhia de saneamento Basico
+VIG       	Vanguard Div Appreciation ETF
+EMGF      	iShares MSCI Emerging Markets M
+ESTC      	Elastic N.V.
+PECO      	Phillips Edison &amp; Company, Inc.
+OCUL      	Ocular Therapeutix, Inc.
+SCHF      	Schwab International Equity ETF
+FND       	Floor &amp; Decor Holdings, Inc.
+TRVI      	Trevi Therapeutics, Inc.
+ARKX      	ARK Space Exploration &amp; Innovat
+JKHY      	Jack Henry &amp; Associates, Inc.
+LAZ       	Lazard LTD. Lazard, LTD.
+MU        	Micron Technology, Inc.
+PRG       	PROG Holdings, Inc.
+REM       	iShares Trust iShares Mortgage
+SUN       	Sunoco LP
+FFIE      	Faraday Future Intelligent Elec
+BAM       	Brookfield Asset Management Inc
+CMS       	CMS Energy Corporation
+HLF       	Herbalife Nutrition Ltd.
+KBA       	KraneShares Bosera MSCI China A
+PERI      	Perion Network Ltd
+LAUR      	Laureate Education, Inc.
+BIGZ      	Requested symbol wasn&#x27;t found
+CCSI      	Consensus Cloud Solutions, Inc.
+BDC       	Belden Inc
+DLTR      	Dollar Tree, Inc.
+TEN       	Tenneco Inc.
+VOX       	Vanguard Communication Services
+BUG       	Global X Cybersecurity ETF
+FRO       	Frontline Ltd.
+GDXJ      	VanEck Junior Gold Miners ETF
+MSFT      	Microsoft Corporation
+NOW       	ServiceNow, Inc.
+VRT       	Vertiv Holdings, LLC
+OUST      	Ouster, Inc.
+HLMN      	Hillman Solutions Corp.
+MXCT      	MaxCyte, Inc.
+AVXL      	Anavex Life Sciences Corp.
+LDOS      	Leidos Holdings, Inc.
+LEN       	Lennar Corporation
+NVO       	Novo Nordisk A/S
+SLYV      	SPDR S&amp;P 600 Small Cap Value ET
+AI        	C3.ai, Inc.
+OGN       	Organon &amp; Co.
+EEMV      	iShares MSCI Emerging Markets M
+ELY       	Callaway Golf Company
+HMY       	Harmony Gold Mining Company Lim
+IRT       	Independence Realty Trust, Inc.
+NEP       	NextEra Energy Partners, LP
+SOL       	Renesola Ltd. American Depsitar
+TRMB      	Trimble Inc.
+VGT       	Vanguard Information Tech ETF
+IQLT      	iShares MSCI Intl Quality Facto
+DECK      	Deckers Outdoor Corporation
+TEL       	TE Connectivity Ltd. New Switze
+AMRS      	Amyris, Inc.
+BMY       	Bristol-Myers Squibb Company
+CVI       	CVR Energy Inc.
+DOOR      	Masonite International Corporat
+EMN       	Eastman Chemical Company
+EWS       	iShares Inc iShares MSCI Singap
+IVOL      	Quadratic Interest Rate Volatil
+UWMC      	UWM Holdings Corporation
+IMPL      	Impel NeuroPharma, Inc.
+FFIV      	F5 Networks, Inc.
+IYW       	iShares U.S. Technology ETF
+PBA       	Pembina Pipeline Corp.
+SCU       	Sculptor Capital Management, In
+UDOW      	ProShares UltraPro Dow30
+HYLB      	Xtrackers USD High Yield Corpor
+CNHI      	CNH Industrial N.V.
+EBND      	SPDR Bloomberg Barclays Emergin
+GLNG      	Golar LNG Limited
+HUBB      	Hubbell Inc
+LTC       	LTC Properties, Inc.
+MCO       	Moody&#x27;s Corporation
+VMW       	Vmware, Inc.
+VRTX      	Vertex Pharmaceuticals Incorpor
+ABCL      	AbCellera Biologics Inc.
+VSCO      	Victorias Secret &amp; Co.
+CBD       	Companhia Brasileira de Distrib
+DLR       	Digital Realty Trust, Inc.
+DWM       	WisdomTree International Equity
+GOVT      	iShares U.S. Treasury Bond ETF
+R         	Ryder System, Inc.
+SAIC      	SCIENCE APPLICATIONS INTERNATIO
+GIGB      	Goldman Sachs Access Investment
+ANSS      	ANSYS, Inc.
+CUK       	Carnival Plc
+DORM      	Dorman Products, Inc.
+ENDP      	Endo International plc
+FM        	iShares MSCI Frontier and Selec
+FWONK     	Liberty Media Corporation - Ser
+XOG       	Extraction Oil &amp; Gas, Inc.
+APPS      	Digital Turbine, Inc.
+AZN       	Astrazeneca PLC
+FHI       	Federated Hermes, Inc.
+H         	Hyatt Hotels Corporation
+IMAX      	Imax Corporation
+VFF       	Village Farms International, In
+MOTV      	Motive Capital Corp
+ASGN      	ASGN Incorporated
+FEZ       	SPDR DJ Euro STOXX 50 Etf
+GWW       	W.W. Grainger, Inc.
+INDA      	Ishares MSCI India ETF
+RAD       	Rite Aid Corporation
+SCHR      	Schwab Intermediate-Term U.S. T
+NABL      	N-able, Inc.
+SGOL      	Aberdeen Standard Physical Gold
+TTWO      	Take-Two Interactive Software,
+UVXY      	ProShares Trust Ultra VIX Short
+CTRM      	Castor Maritime Inc.
+UBER      	Uber Technologies, Inc.
+FDMT      	4D Molecular Therapeutics, Inc.
+CHKP      	Check Point Software Technologi
+CUBE      	CubeSmart
+FCN       	FTI Consulting, Inc.
+HFC       	HollyFrontier Corporation
+HUN       	Huntsman Corporation
+URTH      	Ishares MSCI World Index Fund
+VDE       	Vanguard Energy ETF
+RCM       	R1 RCM Inc.
+SPIR      	Spire Global, Inc.
+AEM       	Agnico Eagle Mines Limited
+AMX       	America Movil, S.A.B. de C.V. A
+CAT       	Caterpillar, Inc.
+CONE      	CyrusOne Inc
+KN        	Knowles Corporation
+MSA       	MSA Safety Incorporated
+SMAR      	Smartsheet Inc.
+HEES      	H&amp;E Equipment Services, Inc.
+MTUM      	iShares MSCI USA Momentum Facto
+RRGB      	Red Robin Gourmet Burgers, Inc.
+RLAY      	Relay Therapeutics, Inc.
+AEIS      	Advanced Energy Industries, Inc
+MATX      	Matson, Inc.
+POLY      	Plantronics, Inc.
+SIRI      	Sirius XM Holdings Inc.
+SPGP      	Invesco S&amp;P 500 GARP ETF
+FDLO      	Fidelity Low Volatility Factor
+CLR       	Continental Resources, Inc.
+CNR       	Cornerstone Building Brands, In
+CPA       	Copa Holdings, S.A. Copa Holdin
+GREE      	Greenidge Generation Holdings I
+LULU      	lululemon athletica inc.
+PDI       	PIMCO Dynamic Income Fund
+RAMP      	LiveRamp Holdings, Inc.
+VNQ       	Vanguard Real Estate ETF
+IBDR      	iShares iBonds Dec 2026 Term Co
+FCTR      	First Trust Lunt U.S. Factor Ro
+QQQM      	Invesco NASDAQ 100 ETF
+CE        	Celanese Corporation Celanese C
+GNMA      	iShares GNMA Bond ETF
+NTRS      	Northern Trust Corporation
+PRFT      	Perficient, Inc.
+SKM       	SK Telecom Co., Ltd.
+GBIL      	Goldman Sachs Access Treasury 0
+HYDW      	Xtrackers Low Beta High Yield B
+BKD       	Brookdale Senior Living Inc.
+ENTG      	Entegris, Inc.
+UDR       	UDR, Inc.
+XMLV      	Invesco S&amp;P MidCap Low Volatili
+IEX       	IDEX Corporation
+RGA       	Reinsurance Group of America, I
+CWH       	Camping World Holdings, Inc.
+WHD       	Cactus, Inc. Class A Common Sto
+LPX       	Louisiana-Pacific Corporation
+PBW       	Invesco WilderHill Clean Energy
+SPLK      	Splunk Inc.
+STL       	Sterling Bancorp
+WOLF      	Wolfspeed, Inc.
+SPT       	Sprout Social, Inc
+KOKU      	Xtrackers MSCI Kokusai Equity E
+BMBL      	Bumble Inc.
+BLK       	BlackRock, Inc.
+BPOP      	Popular, Inc.
+CYH       	Community Health Systems, Inc.
+IAC       	IAC/InterActiveCorp
+CWK       	Cushman &amp; Wakefield plc
+KAR       	KAR Auction Services, Inc
+RUN       	Sunrun Inc.
+SGRY      	Surgery Partners, Inc.
+UA        	Under Armour, Inc.
+SWI       	SolarWinds Corporation
+REZI      	Resideo Technologies, Inc.
+FNDE      	Schwab Fundamental Emerging Mar
+GRID      	First Trust NASDAQ Clean Edge S
+PTY       	Pimco Corporate &amp; Income Opport
+SAGE      	Sage Therapeutics, Inc.
+SRCL      	Stericycle, Inc.
+BSJN      	Invesco BulletShares 2023 High
+GDS       	GDS Holdings Limited
+EXPI      	eXp World Holdings, Inc.
+DKNG      	DraftKings Inc.
+TDSC      	Cabana Target Drawdown 10 ETF
+ALE       	Allete, Inc.
+CDC       	VictoryShares US EQ Income Enha
+DRE       	Duke Realty Corporation
+FDN       	First Trust DJ Internet Index F
+NEU       	NewMarket Corp
+OEG       	Orbital Energy Group, Inc.
+RENN      	Renren Inc.
+XHE       	SPDR S&amp;P Health Care Equipment
+BSCP      	Invesco BulletShares 2025 Corpo
+VTEX      	VTEX
+AMH       	American Homes 4 Rent
+ATEC      	Alphatec Holdings, Inc.
+BJRI      	BJ&#x27;s Restaurants, Inc.
+TMX       	Terminix Global Holdings, Inc.
+JBGS      	JBG SMITH Properties
+ASAN      	Asana, Inc.
+SVFA      	SVF Investment Corp.
+HEDJ      	WisdomTree Europe Hedged Equity
+NAVI      	Navient Corporation
+RPAR      	RPAR Risk Parity ETF
+LOPE      	Grand Canyon Education, Inc.
+TLH       	iShares 10-20 Year Treasury Bon
+TRV       	The Travelers Companies, Inc.
+TTM       	Tata Motors Ltd Tata Motors Lim
+ATH       	Athene Holding Ltd.
+BE        	Bloom Energy Corporation
+FSK       	FS KKR Capital Corp.
+HRTX      	Heron Therapeutics, Inc.
+SBH       	Sally Beauty Holdings, Inc.
+STNG      	Scorpio Tankers Inc.
+XLK       	SPDR Select Sector Fund - Techn
+CHRS      	Coherus BioSciences, Inc.
+LOB       	Live Oak Bancshares, Inc.
+SNDX      	Syndax Pharmaceuticals, Inc.
+FAF       	First American Corporation
+IMGN      	ImmunoGen, Inc.
+PFXF      	VanEck Preferred Securities ex
+EVH       	Evolent Health, Inc
+LSPD      	Lightspeed Commerce Inc. Subord
+ZH        	Zhihu Inc.
+TMC       	TMC the metals company Inc.
+EUFN      	iShares MSCI Europe Financials
+MAT       	Mattel, Inc.
+MDGL      	Madrigal Pharmaceuticals, Inc.
+NUE       	Nucor Corporation
+CLTL      	Invesco Treasury Collateral ETF
+IWN       	iShares Russell 2000 Value ETF
+LSCC      	Lattice Semiconductor Corporati
+MRC       	MRC Global Inc.
+NWG       	NatWest Group plc
+QQQ       	Invesco QQQ Trust, Series 1
+SJNK      	SPDR Bloomberg Barclays Short T
+AGR       	Avangrid, Inc.
+SMMV      	iShares MSCI USA Small-Cap Min
+IHRT      	iHeartMedia, Inc.
+AEVA      	Aeva Technologies, Inc.
+CROX      	Crocs, Inc.
+HPQ       	HP Inc.
+ISTB      	iShares Core 1-5 Year USD Bond
+KPTI      	Karyopharm Therapeutics Inc.
+EPAY      	Bottomline Technologies, Inc.
+HTH       	Hilltop Holdings Inc.
+IWB       	iShares Russell 1000 ETF
+MTG       	MGIC Investment Corporation
+THO       	Thor Industries, Inc.
+XRAY      	DENTSPLY SIRONA Inc.
+LL        	Lumber Liquidators Holdings, In
+SB        	Safe Bulkers, Inc
+TGTX      	TG Therapeutics, Inc.
+WAT       	Waters Corporation
+BUD       	Anheuser-Busch Inbev SA Sponsor
+CSGP      	CoStar Group, Inc.
+ESEA      	Euroseas Ltd.
+ESS       	Essex Property Trust, Inc.
+STX       	Seagate Technology Holdings PLC
+DNB       	Dun &amp; Bradstreet Holdings, Inc.
+DDD       	3D Systems Corporation
+DISH      	DISH Network Corporation
+IXC       	iShares Global Energy ETF
+SIVR      	Aberdeen Standard Physical Silv
+RMNI      	Rimini Street, Inc.
+HHC       	Howard Hughes Corporation
+HYS       	PIMCO 0-5 Year High Yield Corpo
+MDY       	SPDR MidCap Trust Series I
+UPS       	United Parcel Service, Inc.
+MOGO      	Mogo Inc.
+SECT      	Northern Lights Fund Trust IV M
+WAFU      	Wah Fu Education Group Limited
+SEAS      	SeaWorld Entertainment, Inc.
+NNDM      	Nano Dimension Ltd.
+JHG       	Janus Henderson Group plc
+TLRY      	Tilray, Inc. - Class 2
+DFUS      	Dimensional U.S. Equity ETF
+AIA       	iShares Asia 50 ETF
+BGCP      	BGC Partners, Inc.
+FR        	First Industrial Realty Trust,
+OXM       	Oxford Industries, Inc.
+BXP       	Boston Properties, Inc.
+DRQ       	Dril-Quip, Inc.
+MPLX      	MPLX LP
+VWOB      	Vanguard Emerging Markets Gover
+EC        	Ecopetrol S.A.
+JD        	JD.com, Inc.
+UUP       	Invesco DB USD Index Bullish Fu
+XYLD      	Global X Funds Global X S&amp;P 500
+GSIE      	Goldman Sachs ActiveBeta Intern
+VRM       	Vroom, Inc.
+CRC       	California Resources Corporatio
+WISH      	ContextLogic Inc.
+MTTR      	Matterport, Inc.
+GGG       	Graco Inc.
+SPLV      	Invesco S&amp;P 500 Low Volatility
+LIFE      	aTyr Pharma, Inc.
+SKLZ      	Skillz Inc.
+DNA       	Ginkgo Bioworks Holdings, Inc.
+EBS       	Emergent Biosolutions, Inc.
+IVE       	iShares S&amp;P 500 Value ETF
+RCL       	D/B/A Royal Caribbean Cruises L
+VCRA      	Vocera Communications, Inc.
+TDOC      	Teladoc Health, Inc.
+LCTU      	BlackRock U.S. Carbon Transitio
+AMCX      	AMC Networks Inc.
+EXC       	Exelon Corporation
+GPRO      	GoPro, Inc.
+SLG       	SL Green Realty Corp
+WIT       	Wipro Limited
+XELA      	Exela Technologies, Inc.
+JHEM      	John Hancock Multifactor Emergi
+CRM       	Salesforce.com Inc
+IVW       	iShares S&amp;P 500 Growth ETF
+QRTEA     	Liberty Interactive Corporation
+TEVA      	Teva Pharmaceutical Industries
+AAPL      	Apple Inc.
+EPC       	Edgewell Personal Care Company
+PKI       	PerkinElmer, Inc.
+RNR       	RenaissanceRe Holdings Ltd.
+AIG       	American International Group, I
+ARGO      	Argo Group International Holdin
+BSJL      	Invesco BulletShares 2021 High
+CNO       	CNO Financial Group, Inc.
+HEWJ      	iShares Currency Hedged MSCI Ja
+MIC       	Macquarie Infrastructure Holdin
+SNAP      	Snap Inc.
+NIO       	NIO Inc.
+ADSK      	Autodesk, Inc.
+AXON      	Axon Enterprise, Inc.
+CR        	Crane Co.
+FEM       	First Trust Emerging Markets Al
+FLRN      	SPDR Bloomberg Barclays Investm
+MASI      	Masimo Corporation
+PPA       	Invesco Aerospace &amp; Defense ETF
+SLM       	SLM Corporation
+KDMN      	Kadmon Holdings, Inc.
+APPN      	Appian Corporation
+CME       	CME Group Inc.
+IRBT      	iRobot Corporation
+LNC       	Lincoln National Corporation
+VER       	VEREIT, Inc.
+PDD       	Pinduoduo Inc.
+CINF      	Cincinnati Financial Corporatio
+EOG       	EOG Resources, Inc.
+JCI       	Johnson Controls International
+MGK       	Vanguard Mega Cap Growth ETF
+NLSN      	Nielsen N.V.
+KURA      	Kura Oncology, Inc.
+SRVR      	Pacer Benchmark Data &amp; Infrastr
+SUSL      	iShares ESG MSCI USA Leaders ET
+WCLD      	WisdomTree Cloud Computing Fund
+NARI      	Inari Medical, Inc.
+PRLD      	Prelude Therapeutics Incorporat
+AZO       	AutoZone, Inc.
+BLL       	Ball Corporation
+CNMD      	CONMED Corporation
+GE        	General Electric Company
+RETA      	Reata Pharmaceuticals, Inc.
+COIN      	Coinbase Global, Inc.
+FBHS      	Fortune Brands Home &amp; Security,
+FMAT      	Fidelity MSCI Materials Index E
+IDT       	IDT Corporation
+MED       	MEDIFAST INC
+RWO       	SPDR DJ Wilshire Global Real Es
+USIG      	iShares Broad USD Investment Gr
+ZEN       	Zendesk, Inc.
+TALO      	Talos Energy, Inc.
+BBJP      	JPMorgan BetaBuilders Japan ETF
+FSR       	Fisker Inc.
+MFA       	MFA Financial, Inc.
+QLD       	ProShares Ultra QQQ
+VET       	Vermilion Energy Inc.
+ZNGA      	Zynga Inc.
+SWAV      	ShockWave Medical, Inc.
+CRNC      	Cerence Inc.
+ARVL      	Arrival
+PSTH      	Pershing Square Tontine Holding
+CAG       	ConAgra Brands, Inc.
+EMR       	Emerson Electric Company
+PRGS      	Progress Software Corporation
+SPG       	Simon Property Group, Inc.
+CDAY      	Ceridian HCM Holding Inc.
+IMAB      	I-MAB
+CGNT      	Cognyte Software Ltd.
+SIG       	Signet Jewelers Limited
+PTON      	Peloton Interactive, Inc.
+OZON      	Ozon Holdings PLC
+CW        	Curtiss-Wright Corporation
+ECHO      	Echo Global Logistics, Inc.
+FCX       	Freeport-McMoRan, Inc.
+FNDF      	Schwab Fundamental Internationa
+LGND      	Ligand Pharmaceuticals Incorpor
+NSIT      	Insight Enterprises, Inc.
+ENPH      	Enphase Energy, Inc.
+KRG       	Kite Realty Group Trust
+MFC       	Manulife Financial Corporation
+PANW      	Palo Alto Networks, Inc.
+KL        	Kirkland Lake Gold Ltd.
+FOCS      	Focus Financial Partners Inc.
+EQIX      	Equinix, Inc.
+GOL       	Gol Linhas Aereas Inteligentes
+GRBK      	Green Brick Partners, Inc.
+MC        	Moelis &amp; Company
+SITM      	SiTime Corporation
+JBI       	Janus International Group, Inc.
+AMC       	AMC Entertainment Holdings, Inc
+AU        	AngloGold Ashanti Limited
+IBDQ      	iShares iBonds Dec 2025 Term Co
+DELL      	Dell Technologies Inc.
+DOCU      	DocuSign, Inc.
+AHCO      	AdaptHealth Corp.
+ALB       	Albemarle Corporation
+TMDX      	TransMedics Group, Inc.
+LEGN      	Legend Biotech Corporation
+TDCX      	TDCX Inc.
+IXJ       	iShares Global Healthcare ETF
+KTOS      	Kratos Defense &amp; Security Solut
+MGA       	Magna International, Inc.
+SO        	Southern Company
+SPIP      	SPDR Portfolio TIPS ETF
+LABU      	Direxion Daily S&amp;P Biotech Bull
+RRR       	Red Rock Resorts, Inc.
+XERS      	Xeris Biopharma Holdings, Inc.
+PROG      	Progenity, Inc.
+VAL       	Valaris Limited
+GLPG      	Galapagos NV
+IOO       	iShares Global 100 ETF
+NWL       	Newell Brands Inc.
+TRNO      	Terreno Realty Corporation
+VLY       	Valley National Bancorp
+VXF       	Vanguard Extended Market ETF
+NULG      	Nuveen ESG Large-Cap Growth ETF
+ONON      	On Holding AG
+ALK       	Alaska Air Group, Inc.
+CVX       	Chevron Corporation
+VRP       	Invesco Variable Rate Preferred
+ELS       	Equity Lifestyle Properties, In
+FCEL      	FuelCell Energy, Inc.
+SAVE      	Spirit Airlines, Inc.
+WSFS      	WSFS Financial Corporation
+FREL      	Fidelity MSCI Real Estate Index
+REGL      	ProShares S&amp;P MidCap 400 Divide
+WRK       	Westrock Company
+IDEV      	iShares Core MSCI International
+GSAH      	GS Acquisition Holdings Corp II
+CCMP      	CMC Materials, Inc.
+CHDN      	Churchill Downs, Incorporated
+DIOD      	Diodes Incorporated
+ECPG      	Encore Capital Group Inc
+GNRC      	Generac Holdlings Inc.
+OC        	Owens Corning Inc
+SCHH      	Schwab U.S. REIT ETF
+TWLO      	Twilio Inc.
+CWST      	Casella Waste Systems, Inc.
+DENN      	Denny&#x27;s Corporation
+RRD       	R.R. Donnelley &amp; Sons Company
+SUZ       	Suzano S.A.
+TIP       	iShares TIPS Bond ETF
+VIOO      	Vanguard S&amp;P Small-Cap 600 ETF
+WB        	Weibo Corporation
+ELF       	e.l.f. Beauty, Inc.
+APRN      	Blue Apron Holdings, Inc.
+CLI       	Mack-Cali Realty Corporation
+HBAN      	Huntington Bancshares Incorpora
+TFX       	Teleflex Incorporated
+FMX       	Fomento Economico Mexicano S.A.
+JLL       	Jones Lang LaSalle Incorporated
+WRE       	Washington Real Estate Investme
+XME       	SPDR S&amp;P Metals &amp; Mining ETF
+BZ        	KANZHUN LIMITED - American Depo
+DUK       	Duke Energy Corporation
+ETR       	Entergy Corporation
+SCHB      	Schwab U.S. Broad Market ETF
+VGR       	Vector Group Ltd.
+HNDL      	Strategy Shares Nasdaq 7HANDL I
+OPAD      	Offerpad Solutions Inc.
+CPRI      	Capri Holdings Limited
+EME       	EMCOR Group, Inc.
+HELE      	Helen of Troy Limited
+NKTR      	Nektar Therapeutics
+TMHC      	Taylor Morrison Home Corporatio
+SEER      	Seer, Inc.
+CIDM      	Cinedigm Corp
+MAIN      	Main Street Capital Corporation
+OGS       	ONE Gas, Inc.
+BP        	BP p.l.c.
+CDW       	CDW Corporation
+CQQQ      	Invesco China Technology ETF
+DFS       	Discover Financial Services
+IJJ       	iShares S&amp;P Mid-Cap 400 Value E
+PCY       	Invesco Emerging Markets Sovere
+PCYO      	Pure Cycle Corporation
+SDS       	ProShares UltraShort S&amp;P500
+SNN       	Smith &amp; Nephew SNATS, Inc.
+COO       	The Cooper Companies, Inc.
+HIBB      	Hibbett, Inc.
+MOH       	Molina Healthcare Inc
+OFC       	Corporate Office Properties Tru
+RRX       	Regal Rexnord Corporation
+TILT      	FlexShares Mornigstar US Market
+XLP       	SPDR Select Sector Fund - Consu
+GH        	Guardant Health, Inc.
+ARBK      	Argo Blockchain plc
+EGO       	Eldorado Gold Corporation
+GIS       	General Mills, Inc.
+OHI       	Omega Healthcare Investors, Inc
+PRFZ      	Invesco FTSE RAFI US 1500 Small
+BNDW      	Vanguard Total World Bond ETF
+CWB       	SPDR Bloomberg Barclays Convert
+SPNS      	Sapiens International Corporati
+CPG       	Crescent Point Energy Corporati
+EW        	Edwards Lifesciences Corporatio
+UPRO      	ProShares UltraPro S&amp;P 500
+WMT       	Walmart Inc.
+APLE      	Apple Hospitality REIT, Inc.
+PYPL      	PayPal Holdings, Inc.
+CORP      	Pimco Investment Grade Corporat
+OI        	O-I Glass, Inc.
+PENN      	Penn National Gaming, Inc.
+LILM      	Lilium N.V.
+AVY       	Avery Dennison Corporation
+BRFS      	BRF S.A.
+GTLS      	Chart Industries, Inc.
+IAT       	iShares U.S. Regional Banks ETF
+IGIB      	iShares 5-10 Year Investment Gr
+PII       	Polaris Inc.
+RSP       	Invesco S&amp;P 500 Equal Weight ET
+SPTM      	SPDR Portfolio S&amp;P 1500 Composi
+MGP       	MGM Growth Properties LLC
+FALN      	iShares Fallen Angels USD Bond
+ORTX      	Orchard Therapeutics plc
+IGLB      	iShares 10  Year Investment Gra
+PEB       	Pebblebrook Hotel Trust
+PPBI      	Pacific Premier Bancorp Inc
+TTC       	Toro Company
+PSTG      	Pure Storage, Inc.
+NRXP      	NRX Pharmaceuticals, Inc.
+CHNG      	Change Healthcare Inc.
+EDV       	Vanguard Extended Duration Trea
+EHTH      	eHealth, Inc.
+TRP       	TC Energy Corporation
+UBSI      	United Bankshares, Inc.
+LEGO      	Legato Merger Corp.
+MCHI      	iShares MSCI China ETF
+STAR      	iStar Inc.
+ZS        	Zscaler, Inc.
+PULS      	PGIM Ultra Short Bond ETF
+AAXJ      	iShares MSCI All Country Asia e
+CAL       	Caleres, Inc.
+PAG       	Penske Automotive Group, Inc.
+PGEN      	Precigen, Inc.
+WAL       	Western Alliance Bancorporation
+HTRB      	Hartford Total Return Bond ETF
+BC        	Brunswick Corporation
+DVA       	DaVita Inc.
+KW        	Kennedy-Wilson Holdings Inc.
+SCSC      	ScanSource, Inc.
+TXRH      	Texas Roadhouse, Inc.
+EAF       	GrafTech International Ltd.
+NGM       	NGM Biopharmaceuticals, Inc.
+DADA      	Dada Nexus Limited
+OLO       	Olo Inc.
+FENY      	Fidelity MSCI Energy Index ETF
+FIDU      	Fidelity MSCI Industrials Index
+KNX       	Knight-Swift Transportation Hol
+LEMB      	iShares J.P. Morgan EM Local Cu
+LLY       	Eli Lilly and Company
+TDTT      	FlexShares iBoxx 3 Year Target
+DT        	Dynatrace, Inc.
+OSCR      	Oscar Health, Inc.
+FTSL      	First Trust Senior Loan Fund ET
+HII       	Huntington Ingalls Industries,
+INTF      	iShares MSCI Intl Multifactor E
+CTVA      	Corteva, Inc.
+BIDU      	Baidu, Inc.
+GIII      	G-III Apparel Group, LTD.
+IRDM      	Iridium Communications Inc
+MD        	Mednax, Inc.
+PHM       	PulteGroup, Inc.
+RDWR      	Radware Ltd.
+RELX      	RELX PLC PLC
+SNBR      	Sleep Number Corporation
+TPR       	Tapestry, Inc.
+VGLT      	Vanguard Long-Treasury ETF
+VIH       	VPC Impact Acquisition Holdings
+ALLY      	Ally Financial Inc.
+GFI       	Gold Fields Limited
+UNP       	Union Pacific Corporation
+TWNK      	Hostess Brands, Inc.
+GCMG      	GCM Grosvenor Inc.
+INFL      	Horizon Kinetics Inflation Bene
+AON       	Aon plc
+CBRL      	Cracker Barrel Old Country Stor
+EFV       	iShares MSCI EAFE Value ETF
+QCOM      	QUALCOMM Incorporated
+CDNS      	Cadence Design Systems, Inc.
+CNP       	CenterPoint Energy, Inc
+ICE       	Intercontinental Exchange Inc.
+VO        	Vanguard Mid-Cap ETF
+ZBH       	Zimmer Biomet Holdings, Inc.
+USFD      	US Foods Holding Corp.
+ROKU      	Roku, Inc.
+IDYA      	IDEAYA Biosciences, Inc.
+MSOS      	AdvisorShares Trust AdvisorShar
+BCE       	BCE, Inc.
+FPX       	First Trust US Equity Opportuni
+IAI       	iShares U.S. Broker-Dealers &amp; S
+IWV       	iShares Russell 3000 ETF
+LAD       	Lithia Motors, Inc.
+SYF       	Synchrony Financial
+VAC       	Marriott Vacations Worldwide Co
+VOO       	Vanguard S&amp;P 500 ETF
+FSLY      	Fastly, Inc.
+FPE       	First Trust Preferred Securitie
+J         	Jacobs Engineering Group Inc.
+KDP       	Keurig Dr Pepper Inc.
+PTH       	Invesco DWA Healthcare Momentum
+GKOS      	Glaukos Corporation
+INSW      	International Seaways, Inc.
+ASO       	Academy Sports and Outdoors, In
+BASE      	Couchbase, Inc.
+EDU       	New Oriental Education &amp; Techno
+FBC       	Flagstar Bancorp, Inc.
+RL        	Ralph Lauren Corporation
+EQAL      	Invesco Russell 1000 Equal Weig
+POWW      	AMMO, Inc.
+AR        	Antero Resources Corporation
+GDOT      	Green Dot Corporation
+LOW       	Lowe&#x27;s Companies, Inc.
+CC        	Chemours Company
+VNE       	Veoneer, Inc.
+DOCN      	DigitalOcean Holdings, Inc.
+ADGI      	Adagio Therapeutics, Inc.
+BNDX      	Vanguard Total International Bo
+ENB       	Enbridge Inc
+NUVA      	NuVasive, Inc.
+PSI       	Invesco Dynamic Semiconductors
+QSR       	Restaurant Brands International
+PK        	Park Hotels &amp; Resorts Inc.
+KREF      	KKR Real Estate Finance Trust I
+TUYA      	Tuya Inc.
+AGG       	iShares Core U.S. Aggregate Bon
+BAB       	Invesco Taxable Municipal Bond
+ED        	Consolidated Edison, Inc.
+HOG       	Harley-Davidson, Inc.
+PAAS      	Pan American Silver Corp.
+SCHE      	Schwab Emerging Markets Equity
+SONO      	Sonos, Inc.
+DWAS      	Invesco DWA SmallCap Momentum E
+FXH       	First Trust Health Care AlphaDE
+IBP       	Installed Building Products, In
+MTN       	Vail Resorts, Inc.
+PRF       	Invesco FTSE RAFI US 1000 ETF
+STZ       	Constellation Brands, Inc.
+GROM      	Grom Social Enterprises Inc.
+FREY      	FREYR Battery
+AIZ       	Assurant, Inc.
+BVN       	Buenaventura Mining Company Inc
+FTEC      	Fidelity MSCI Information Techn
+IGT       	International Game Technology
+KMT       	Kennametal Inc.
+TMST      	TimkenSteel Corporation
+TWTR      	Twitter, Inc.
+ARNC      	Arconic Corporation
+ILF       	iShares Latin America 40 ETF
+MSTR      	MicroStrategy Incorporated
+TOL       	Toll Brothers, Inc.
+XLG       	Invesco S&amp;P 500 Top 50 ETF
+UNVR      	Univar Solutions Inc.
+JHMD      	John Hancock Exchange-Traded Fu
+ALEC      	Alector, Inc.
+CFG       	Citizens Financial Group, Inc.
+IQ        	iQIYI, Inc.
+PAYA      	Paya Holdings Inc.
+BNL       	Broadstone Net Lease, Inc.
+BOND      	PIMCO Active Bond Exchange-Trad
+EWC       	iShares MSCI Canada Index Fund
+FDX       	FedEx Corporation
+FMS       	Fresenius Medical Care AG
+SEM       	Select Medical Holdings Corpora
+PFFD      	Global X U.S. Preferred ETF
+ONLN      	ProShares Online Retail ETF
+WRBY      	Warby Parker Inc.
+AIT       	Applied Industrial Technologies
+CLF       	Cleveland-Cliffs Inc.
+OVV       	Ovintiv Inc.
+PTEN      	Patterson-UTI Energy, Inc.
+QEFA      	SPDR MSCI EAFE StrategicFactors
+SFM       	Sprouts Farmers Market, Inc.
+SOXX      	iShares Semiconductor ETF
+TFI       	SPDR Nuveen Bloomberg Barclays
+EMCR      	Xtrackers Emerging Markets Carb
+FNV       	Franco-Nevada Corporation
+HRB       	H&amp;R Block, Inc.
+PCH       	PotlatchDeltic Corporation - Co
+ROM       	ProShares Ultra Technology
+VONE      	Vanguard Russell 1000 ETF
+WLK       	Westlake Chemical Corporation
+XENE      	Xenon Pharmaceuticals Inc.
+BPMC      	Blueprint Medicines Corporation
+BLD       	TopBuild Corp.
+ALLE      	Allegion plc
+FATE      	Fate Therapeutics, Inc.
+VTR       	Ventas, Inc.
+BITF      	Bitfarms Ltd.
+OMI       	Owens &amp; Minor, Inc.
+TM        	Toyota Motor Corporation
+NTLA      	Intellia Therapeutics, Inc.
+FUTU      	Futu Holdings Limited
+CMCO      	Columbus McKinnon Corporation
+HLIO      	Helios Technologies, Inc.
+KEY       	KeyCorp
+LQD       	iShares iBoxx $ Investment Grad
+TV        	Grupo Televisa S.A.
+INVH      	Invitation Homes Inc.
+ARVN      	Arvinas, Inc.
+U         	Unity Software Inc.
+ALGT      	Allegiant Travel Company
+EMB       	iShares J.P. Morgan USD Emergin
+GES       	Guess?, Inc.
+SCHW      	Charles Schwab Corporation
+SPMB      	SPDR Portfolio Mortgage Backed
+UP        	Wheels Up Experience Inc.
+LCTD      	BlackRock World ex U.S. Carbon
+DNUT      	Krispy Kreme, Inc.
+BIG       	Big Lots, Inc.
+BIZD      	VanEck BDC Income ETF
+NSP       	Insperity, Inc.
+PFG       	Principal Financial Group Inc
+VFC       	V.F. Corporation
+UCON      	First Trust TCW Unconstrained P
+AMKR      	Amkor Technology, Inc.
+INDB      	Independent Bank Corp.
+PRO       	PROS Holdings, Inc.
+SHY       	iShares 1-3 Year Treasury Bond
+TECK      	Teck Resources Ltd
+BNGO      	Bionano Genomics, Inc.
+CASY      	Caseys General Stores, Inc.
+HE        	Hawaiian Electric Industries, I
+IYH       	iShares U.S. Healthcare ETF
+JBLU      	JetBlue Airways Corporation
+SAIA      	Saia, Inc.
+UAL       	United Airlines Holdings, Inc.
+UI        	Ubiquiti Inc.
+NMRK      	Newmark Group, Inc.
+CHIQ      	Global X MSCI China Consumer Di
+MNRO      	Monro, Inc.
+NXTG      	First Trust Indxx NextG ETF
+SSRM      	SSR Mining Inc.
+TCOM      	Trip.com Group Limited
+TPL       	Texas Pacific Land Corporation
+FHB       	First Hawaiian, Inc.
+CALF      	Pacer US Small Cap Cash Cows 10
+PETQ      	PetIQ, Inc.
+CERT      	Certara, Inc.
+AMTX      	Aemetis, Inc
+BCRX      	BioCryst Pharmaceuticals, Inc.
+LECO      	Lincoln Electric Holdings, Inc.
+SLQD      	iShares 0-5 Year Investment Gra
+ALLK      	Allakos Inc.
+VNT       	Vontier Corporation
+HOLI      	Hollysys Automation Technologie
+KKR       	KKR &amp; Co. Inc.
+LMT       	Lockheed Martin Corporation
+RYT       	Invesco S&amp;P 500 Equal Weight Te
+VRTS      	Virtus Investment Partners, Inc
+WGO       	Winnebago Industries, Inc.
+RKLY      	Rockley Photonics Holdings Limi
+MGC       	Vanguard Mega Cap ETF
+MSEX      	Middlesex Water Company
+MYGN      	Myriad Genetics, Inc.
+OKE       	ONEOK, Inc.
+VOOG      	Vanguard S&amp;P 500 Growth ETF
+NAPA      	The Duckhorn Portfolio, Inc.
+CHD       	Church &amp; Dwight Company, Inc.
+FLOT      	iShares Floating Rate Bond ETF
+IPG       	Interpublic Group of Companies,
+UNFI      	United Natural Foods, Inc.
+RIOT      	Riot Blockchain, Inc
+PINS      	Pinterest, Inc.
+RSI       	Rush Street Interactive, Inc.
+GOCO      	GoHealth, Inc.
+EVR       	Evercore Inc.
+GTO       	Invesco Total Return Bond ETF
+SOVO      	Sovos Brands, Inc.
+QLYS      	Qualys, Inc.
+SGH       	SMART Global Holdings, Inc.
+LOKB      	Live Oak Acquisition Corp. II
+BRX       	Brixmor Property Group Inc.
+EWT       	iShares Inc iShares MSCI Taiwan
+FBP       	First BanCorp. New
+HASI      	Hannon Armstrong Sustainable In
+IGF       	iShares Global Infrastructure E
+KR        	Kroger Company
+POWI      	Power Integrations, Inc.
+SEMR      	SEMrush Holdings, Inc.
+BBH       	VanEck Biotech ETF
+DTN       	WisdomTree U.S. Dividend ex-Fin
+FNDA      	Schwab Fundamental U.S. Small C
+GNW       	Genworth Financial Inc
+IWY       	iShares Russell Top 200 Growth
+MRTX      	Mirati Therapeutics, Inc.
+PDCE      	PDC Energy, Inc.
+PGF       	Invesco Financial Preferred ETF
+VCSH      	Vanguard Short-Term Corporate B
+SQ        	Square, Inc.
+PACW      	PacWest Bancorp
+RS        	Reliance Steel &amp; Aluminum Co.
+SOXL      	Direxion Daily Semiconductor Bu
+WWE       	World Wrestling Entertainment,
+MDB       	MongoDB, Inc.
+CHX       	ChampionX Corporation
+AKAM      	Akamai Technologies, Inc.
+FICO      	Fair Isaac Corproation
+MOMO      	Hello Group Inc.
+ZM        	Zoom Video Communications, Inc.
+AVDE      	Avantis International Equity ET
+EDOC      	Global X Telemedicine &amp; Digital
+ATEN      	A10 Networks, Inc.
+CVBF      	CVB Financial Corporation
+DRH       	Diamondrock Hospitality Company
+IVOO      	Vanguard S&amp;P Mid-Cap 400 ETF
+LSTR      	Landstar System, Inc.
+ORA       	Ormat Technologies, Inc.
+PODD      	Insulet Corporation
+PVG       	Pretium Resources, Inc.
+BBIG      	Vinco Ventures, Inc.
+AKR       	Acadia Realty Trust
+CTXS      	Citrix Systems, Inc.
+GOLD      	Barrick Gold Corporation
+MMC       	Marsh &amp; McLennan Companies, Inc
+NOC       	Northrop Grumman Corporation
+PEAK      	Healthpeak Properties, Inc.
+SITC      	SITE Centers Corp.
+TROW      	T. Rowe Price Group, Inc.
+PSN       	Parsons Corporation
+BRBR      	BellRing Brands, Inc.
+OSH       	Oak Street Health, Inc.
+DXC       	DXC Technology Company
+GRFS      	Grifols, S.A.
+HYD       	VanEck ETF Trust VanEck High Yi
+ORMP      	Oramed Pharmaceuticals Inc.
+XHB       	SPDR Series Trust SPDR Homebuil
+NVRO      	Nevro Corp.
+BOX       	Box, Inc.
+INOV      	Inovalon Holdings, Inc.
+NEX       	NexTier Oilfield Solutions Inc.
+HIPO      	Hippo Holdings Inc.
+ASAI      	Sendas Distribuidora S A
+AUY       	Yamana Gold Inc.
+IHI       	iShares U.S. Medical Devices ET
+MOAT      	VanEck Morningstar Wide Moat ET
+OIH       	VanEck Vectors Oil Services ETF
+RPAY      	Repay Holdings Corporation
+IPAC      	iShares Core MSCI Pacific ETF
+MPW       	Medical Properties Trust, Inc.
+PUK       	Prudential Public Limited Compa
+SYBT      	Stock Yards Bancorp, Inc.
+W         	Wayfair Inc.
+URNM      	NorthShore Global Uranium Minin
+AGO       	Assured Guaranty Ltd.
+CHGG      	Chegg, Inc.
+IWO       	iShares Russell 2000 Growth ETF
+MPC       	Marathon Petroleum Corporation
+RDN       	Radian Group Inc.
+SCHJ      	Schwab 1-5 Year Corporate Bond
+ZNTL      	Zentalis Pharmaceuticals, Inc.
+HEFA      	iShares Currency Hedged MSCI EA
+DCPH      	Deciphera Pharmaceuticals, Inc.
+AEP       	American Electric Power Company
+FTGC      	First Trust Global Tactical Com
+NFG       	National Fuel Gas Company
+QCLN      	First Trust NASDAQ Clean Edge G
+SMMU      	Short Term Municipal Bond Activ
+STM       	STMicroelectronics N.V.
+PFFA      	Virtus InfraCap U.S. Preferred
+BNS       	Bank Nova Scotia Halifax Pfd 3
+HBM       	Hudbay Minerals Inc.
+TMUS      	T-Mobile US, Inc.
+DFIN      	Donnelley Financial Solutions,
+SE        	Sea Limited
+EZM       	WisdomTree U.S. MidCap Fund
+KXI       	iShares Global Consumer Staples
+WBS       	Webster Financial Corporation
+WCN       	Waste Connections, Inc.
+VYGR      	Voyager Therapeutics, Inc.
+WH        	Wyndham Hotels &amp; Resorts, Inc.
+FULC      	Fulcrum Therapeutics, Inc.
+PHR       	Phreesia, Inc.
+ATRC      	AtriCure, Inc.
+FCOM      	Fidelity MSCI Communication Ser
+IGM       	iShares Expanded Tech Sector ET
+JNUG      	Direxion Daily Junior Gold Mine
+MKSI      	MKS Instruments, Inc.
+SPDW      	SPDR Portfolio Developed World
+VGSH      	Vanguard Short-Term Treasury ET
+VLUE      	iShares MSCI USA Value Factor E
+XNCR      	Xencor, Inc.
+XRX       	Xerox Holdings Corporation
+SLQT      	SelectQuote, Inc.
+OTLY      	Oatly Group AB
+MBT       	Mobile TeleSystems PJSC
+SQM       	Sociedad Quimica y Minera S.A.
+IBDO      	iShares iBonds Dec 2023 Term Co
+NFE       	New Fortress Energy Inc.
+JAMF      	Jamf Holding Corp.
+ANGL      	VanEck Fallen Angel High Yield
+ARCC      	Ares Capital Corporation - Clos
+GLD       	SPDR Gold Trust
+HAS       	Hasbro, Inc.
+XMMO      	Invesco S&amp;P MidCap Momentum ETF
+PDSB      	PDS Biotechnology Corporation
+ARMK      	Aramark
+CMPR      	Cimpress PLC
+GPS       	Gap, Inc.
+PAGP      	Plains GP Holdings, L.P.
+RWLK      	ReWalk Robotics Ltd.
+DHI       	D.R. Horton, Inc.
+IYG       	iShares U.S. Financial Services
+TS        	Tenaris S.A.
+FUBO      	fuboTV Inc.
+DHR       	Danaher Corporation
+GNTX      	Gentex Corporation
+MUFG      	Mitsubishi UFJ Financial Group,
+NCLH      	Norwegian Cruise Line Holdings
+VRTV      	Veritiv Corporation
+ALRM      	Alarm.com Holdings, Inc.
+FDRR      	Fidelity Dividend ETF for Risin
+AYX       	Alteryx, Inc.
+AAON      	AAON, Inc.
+AVGO      	Broadcom Inc.
+BLNK      	Blink Charging Co. Common Stock
+DOV       	Dover Corporation
+NFLX      	Netflix, Inc.
+QDEL      	Quidel Corporation
+WDAY      	Workday, Inc.
+ZUMZ      	Zumiez Inc.
+BOOM      	DMC Global Inc.
+BURL      	Burlington Stores, Inc.
+CAR       	Avis Budget Group, Inc.
+KBR       	KBR, Inc.
+MGNI      	Magnite, Inc.
+REXR      	Rexford Industrial Realty, Inc.
+UNH       	UnitedHealth Group Incorporated
+WAB       	Westinghouse Air Brake Technolo
+MHO       	M/I Homes, Inc.
+NMM       	Navios Maritime Partners LP
+WEX       	WEX Inc.
+X         	United States Steel Corporation
+CRSP      	CRISPR Therapeutics AG
+AES       	The AES Corporation
+AWR       	American States Water Company
+FCNCA     	First Citizens BancShares, Inc.
+FDL       	First Trust Morningstar ETF
+FIZZ      	National Beverage Corp.
+SNP       	China Petroleum &amp; Chemical Corp
+IBRX      	ImmunityBio, Inc.
+IFRA      	iShares U.S. Infrastructure ETF
+PUBM      	PubMatic, Inc.
+ADI       	Analog Devices, Inc.
+AOA       	iShares Core Aggressive Allocat
+AXP       	American Express Company
+DIS       	Walt Disney Company
+F         	Ford Motor Company
+ITM       	VanEck ETF Trust VanEck Interme
+KPLT      	Katapult Holdings, Inc.
+IYY       	iShares Dow Jones U.S. ETF
+KWEB      	KraneShares Trust KraneShares C
+NTAP      	NetApp, Inc.
+PSB       	PS Business Parks, Inc.
+SUSA      	iShares MSCI USA ESG Select ETF
+VOOV      	Vanguard S&amp;P 500 Value ETF
+AFL       	AFLAC Incorporated
+ZTS       	Zoetis Inc.
+APRE      	Aprea Therapeutics, Inc.
+BCS       	Barclays PLC
+BWX       	SPDR Bloomberg Barclays Intl Tr
+NEAR      	BlackRock Short Maturity Bond E
+RING      	iShares MSCI Global Gold Miners
+LBRDK     	Liberty Broadband Corporation
+OLMA      	Olema Pharmaceuticals, Inc.
+LTH       	Life Time Group Holdings, Inc.
+ARCT      	Arcturus Therapeutics Holdings
+FTSD      	Franklin Liberty Short Duration
+KMB       	Kimberly-Clark Corporation
+MSI       	Motorola Solutions, Inc.
+XLRE      	Real Estate Select Sector SPDR
+DRIV      	Global X Autonomous &amp; Electric
+BNTX      	BioNTech SE
+APH       	Amphenol Corporation
+EPAM      	EPAM Systems, Inc.
+NWE       	NorthWestern Corporation
+AVAV      	AeroVironment, Inc.
+UHAL      	Amerco
+CLOU      	Global X Cloud Computing ETF
+OYST      	Oyster Point Pharma, Inc.
+DEN       	Denbury Inc.
+EWQ       	iShares MSCI France Index Fund
+LYFT      	Lyft, Inc.
+FVRR      	Fiverr International Ltd.
+NRDY      	Nerdy Inc.
+APP       	Applovin Corporation
+CM        	Canadian Imperial Bank of Comme
+DQ        	DAQO New Energy Corp.
+EEMA      	iShares MSCI Emerging Markets A
+NKE       	Nike, Inc.
+SKX       	Skechers U.S.A., Inc.
+SWBI      	Smith &amp; Wesson Brands, Inc.
+TRN       	Trinity Industries, Inc.
+YINN      	Direxion Daily FTSE China Bull
+STOR      	STORE Capital Corporation
+SWCH      	Switch, Inc.
+CSL       	Carlisle Companies Incorporated
+CYTK      	Cytokinetics, Incorporated
+EXPD      	Expeditors International of Was
+LYV       	Live Nation Entertainment, Inc.
+OPCH      	Option Care Health, Inc.
+PRAA      	PRA Group, Inc.
+XLV       	SPDR Select Sector Fund - Healt
+IBUY      	Amplify ETF Trust Amplify Onlin
+BAND      	Bandwidth Inc.
+AMP       	Ameriprise Financial, Inc.
+BND       	Vanguard Total Bond Market ETF
+CERN      	Cerner Corporation
+EFG       	iShares MSCI EAFE Growth ETF
+OSK       	Oshkosh Corporation
+PSK       	SPDR ICE Preferred Securities E
+VIOV      	Vanguard S&amp;P Small-Cap 600 Valu
+TRHC      	Tabula Rasa HealthCare, Inc.
+ETRN      	Equitrans Midstream Corporation
+LAZR      	Luminar Technologies, Inc.
+RLX       	RLX Technology Inc.
+ANET      	Arista Networks, Inc.
+BAH       	Booz Allen Hamilton Holding Cor
+EFX       	Equifax, Inc.
+ESI       	Element Solutions Inc.
+INCY      	Incyte Corporation
+VMC       	Vulcan Materials Company
+HLI       	Houlihan Lokey, Inc.
+CXSE      	WisdomTree China ex-State-Owned
+EL        	Estee Lauder Companies, Inc.
+GVI       	iShares Intermediate Government
+MRK       	Merck &amp; Company, Inc.
+RHI       	Robert Half International Inc.
+EVLO      	Evelo Biosciences, Inc.
+FIBK      	First Interstate BancSystem, In
+HXL       	Hexcel Corporation
+OAS       	Oasis Petroleum Inc.
+ABG       	Asbury Automotive Group Inc
+MLPX      	Global X MLP &amp; Energy Infrastru
+DIAL      	Columbia Diversified Fixed Inco
+SOFI      	SoFi Technologies, Inc.
+LZ        	LegalZoom.com, Inc.
+BEN       	Franklin Resources, Inc.
+CRL       	Charles River Laboratories Inte
+GME       	GameStop Corporation
+HDB       	HDFC Bank Limited
+IXN       	iShares Global Tech ETF
+NBIX      	Neurocrine Biosciences, Inc.
+VTIP      	Vanguard Short-Term Inflation-P
+XPRO      	Expro Group Holdings N.V.
+STNE      	StoneCo Ltd.
+PDP       	Invesco DWA Momentum ETF
+CRWD      	CrowdStrike Holdings, Inc.
+BMRN      	BioMarin Pharmaceutical Inc.
+BRKS      	Brooks Automation, Inc.
+FSM       	Fortuna Silver Mines Inc
+HYG       	iShares iBoxx $ High Yield Corp
+MEOH      	Methanex Corporation
+MVIS      	Microvision, Inc.
+NLOK      	NortonLifeLock Inc.
+BBEU      	JPMorgan BetaBuilders Europe ET
+EUSB      	iShares ESG Advanced Total USD
+BDN       	Brandywine Realty Trust
+PTRA      	Proterra Inc
+WBX       	Wallbox N.V.
+ANGI      	Angi Inc.
+ATVI      	Activision Blizzard, Inc
+CATY      	Cathay General Bancorp
+XBI       	SPDR Series Trust  SPDR S&amp;P Bio
+KOMP      	SPDR S&amp;P Kensho New Economies C
+HOOD      	Robinhood Markets, Inc.
+AAP       	Advance Auto Parts Inc.
+AVID      	Avid Technology, Inc.
+GWX       	SPDR S&amp;P International SmallCap
+IDXX      	IDEXX Laboratories, Inc.
+NGG       	National Grid Transco, PLC Nati
+PACB      	Pacific Biosciences of Californ
+PTCT      	PTC Therapeutics, Inc.
+SHV       	iShares Short Treasury Bond ETF
+STRA      	Strategic Education, Inc.
+TFC       	Truist Financial Corporation
+AIKI      	AIkido Pharma Inc.
+IOVA      	Iovance Biotherapeutics, Inc.
+LAMR      	Lamar Advertising Company
+PWZ       	Invesco California AMT-Free Mun
+TBT       	ProShares UltraShort Lehman 20
+TGT       	Target Corporation
+COWZ      	Pacer US Cash Cows 100 ETF
+KTB       	Kontoor Brands, Inc.
+XPEV      	XPeng Inc.
+ISO       	IsoPlexis Corporation
+EMLP      	First Trust North American Ener
+ING       	ING Group, N.V.
+NVR       	NVR, Inc.
+OGE       	OGE Energy Corp
+OXLC      	Oxford Lane Capital Corp.
+PTC       	PTC Inc.
+DFAS      	Dimensional U.S. Small Cap ETF
+SPB       	Spectrum Brands Holdings, Inc.
+TAP       	Molson Coors Beverage Company
+NEWR      	New Relic, Inc.
+NVT       	nVent Electric plc
+DFAU      	Dimensional US Core Equity Mark
+AGL       	agilon health, inc.
+CFA       	VictoryShares US 500 Volatility
+GOOGL     	Alphabet Inc.
+PTR       	PetroChina Company Limited
+RLJ       	RLJ Lodging Trust
+TELL      	Tellurian Inc.
+SOFIW     	Social Capital Hedosophia Holdi
+ALKS      	Alkermes plc
+ANY       	Sphere 3D Corp.
+SRNE      	Sorrento Therapeutics, Inc.
+SHLX      	Shell Midstream Partners, L.P.
+PDBC      	Invesco Optimum Yield Diversifi
+QUS       	SPDR MSCI USA StrategicFactors
+CRBU      	Caribou Biosciences, Inc.
+ARKW      	ARK Next Generation Internet ET
+CDXS      	Codexis, Inc.
+ODFL      	Old Dominion Freight Line, Inc.
+TSLA      	Tesla, Inc.
+AVDV      	Avantis International Small Cap
+PRI       	Primerica, Inc.
+RYH       	Invesco S&amp;P 500 Equal Weight He
+VSH       	Vishay Intertechnology, Inc.
+ZWS       	Zurn Water Solutions Corporatio
+BALY      	Bally&#x27;s Corporation
+GENI      	Genius Sports Limited
+ENIA      	Enel Americas S.A.
+EZU       	iShares MSCI Eurozone ETF
+HSIC      	Henry Schein, Inc.
+IYT       	iShares Trust iShares U.S. Tran
+UCO       	ProShares Ultra Bloomberg Crude
+BOWX      	BowX Acquisition Corp.
+GMAB      	Genmab A/S
+IVOV      	Vanguard S&amp;P Mid-Cap 400 Value
+SWN       	Southwestern Energy Company
+NJR       	NewJersey Resources Corporation
+SYY       	Sysco Corporation
+AGGY      	WisdomTree Yield Enhanced U.S.
+AFG       	American Financial Group, Inc.
+BKR       	Baker Hughes Company
+HNI       	HNI Corporation
+HQY       	HealthEquity, Inc.
+INDY      	iShares S&amp;P India Nifty 50 Inde
+KRC       	Kilroy Realty Corporation
+OSIS      	OSI Systems, Inc.
+EDIT      	Editas Medicine, Inc.
+EPRT      	Essential Properties Realty Tru
+BFLY      	Butterfly Network, Inc.
+IONQ      	IonQ, Inc.
+C         	Citigroup, Inc.
+HUM       	Humana Inc.
+PPL       	PPL Corporation
+TEAM      	Atlassian Corporation Plc
+EYE       	National Vision Holdings, Inc.
+NTSX      	WisdomTree U.S. Efficient Core
+TWST      	Twist Bioscience Corporation
+PRCH      	Porch Group, Inc.
+DASH      	DoorDash, Inc.
+AL        	Air Lease Corporation
+CTRN      	Citi Trends, Inc.
+IART      	Integra LifeSciences Holdings C
+LDUR      	PIMCO Enhanced Low Duration Act
+SHYG      	iShares 0-5 Year High Yield Cor
+SPLB      	SPDR Portfolio Long Term Corpor
+CGTX      	Cognition Therapeutics, Inc.
+TREX      	Trex Company, Inc.
+NSA       	National Storage Affiliates Tru
+GTHX      	G1 Therapeutics, Inc.
+HAYW      	Hayward Holdings, Inc.
+ERAS      	Erasca, Inc.
+DH        	Definitive Healthcare Corp.
+AY        	Atlantica Sustainable Infrastru
+ALXO      	ALX Oncology Holdings Inc.
+CIFR      	Cipher Mining Inc.
+HRL       	Hormel Foods Corporation
+KO        	Coca-Cola Company
+RILY      	B. Riley Financial, Inc.
+SSO       	ProShares Ultra S&amp;P500
+ABUS      	Arbutus Biopharma Corporation
+BSBR      	Banco Santander Brasil SA
+CPB       	Campbell Soup Company
+DRI       	Darden Restaurants, Inc.
+ICLN      	iShares S&amp;P Global Clean Energy
+LXP       	Lexington Realty Trust
+ZGNX      	Zogenix, Inc.
+SITE      	SiteOne Landscape Supply, Inc.
+FMTX      	Forma Therapeutics Holdings, In
+PCGU      	Pacific Gas &amp; Electric Co. Equi
+FORG      	ForgeRock, Inc.
+CF        	CF Industries Holdings, Inc.
+SPHD      	Invesco S&amp;P 500 High Dividend L
+TTEK      	Tetra Tech, Inc.
+DY        	Dycom Industries, Inc.
+EGP       	EastGroup Properties, Inc.
+EPS       	WisdomTree U.S. LargeCap Fund
+FIVN      	Five9, Inc.
+SBGI      	Sinclair Broadcast Group, Inc.
+SPXL      	Direxion Daily S&amp;P 500 Bull 3X
+STC       	Stewart Information Services Co
+SAFE      	Safehold Inc.
+USWS      	U.S. Well Services, Inc.
+APTV      	Aptiv PLC
+CBT       	Cabot Corporation
+CMC       	Commercial Metals Company
+ERUS      	iShares MSCI iShares MSCI Russi
+FPXI      	First Trust International Equit
+SFT       	Shift Technologies, Inc.
+GRUB      	Just Eat Takeaway.com N.V.
+AA        	Alcoa Corporation
+EQR       	Equity Residential
+IPGP      	IPG Photonics Corporation
+SDG       	iShares MSCI Global Impact ETF
+ARR       	ARMOUR Residential REIT, Inc.
+BIO       	Bio-Rad Laboratories, Inc.
+GBCI      	Glacier Bancorp, Inc.
+GS        	Goldman Sachs Group, Inc.
+HP        	Helmerich &amp; Payne, Inc.
+PID       	Invesco International Dividend
+REET      	iShares Trust iShares Global RE
+CWEN      	Clearway Energy, Inc.
+INMD      	InMode Ltd.
+RKT       	Rocket Companies, Inc.
+ITRI      	Itron, Inc.
+PSX       	Phillips 66
+REG       	Regency Centers Corporation
+SPSM      	SPDR Portfolio S&amp;P 600 Small Ca
+TXT       	Textron Inc.
+XLU       	SPDR Select Sector Fund - Utili
+ACT       	Enact Holdings, Inc.
+ACB       	Aurora Cannabis Inc.
+BIIB      	Biogen Inc.
+DEM       	WisdomTree Emerging Markets Hig
+NVAX      	Novavax, Inc.
+SKY       	Skyline Champion Corporation
+CLSK      	CleanSpark, Inc.
+AQUA      	Evoqua Water Technologies Corp.
+GFL       	GFL Environmental Inc. Subordin
+GPN       	Global Payments Inc.
+NUAN      	Nuance Communications, Inc.
+OMF       	OneMain Holdings, Inc.
+PH        	Parker-Hannifin Corporation
+INSP      	Inspire Medical Systems, Inc.
+PHG       	Koninklijke Philips N.V. NY Reg
+LSXMA     	Liberty Media Corporation - Ser
+OMFL      	Invesco Exchange-Traded Self-In
+CRUS      	Cirrus Logic, Inc.
+EXK       	Endeavour Silver Corporation
+HIW       	Highwoods Properties, Inc.
+ITB       	iShares U.S. Home Construction
+MMAT      	Meta Materials Inc.
+VCEL      	Vericel Corporation
+NET       	Cloudflare, Inc.
+BWXT      	BWX Technologies, Inc.
+NAKD      	Naked Brand Group Limited
+RWT       	Redwood Trust, Inc.
+SPHY      	SPDR Portfolio High Yield Bond
+TQQQ      	ProShares UltraPro QQQ
+WFC       	Wells Fargo &amp; Company
+SQSP      	Squarespace, Inc.
+ACWX      	iShares MSCI ACWI ex US Index F
+DES       	WisdomTree U.S. SmallCap Divide
+MLHR      	Herman Miller, Inc.
+ARWR      	Arrowhead Pharmaceuticals, Inc.
+DCP       	DCP Midstream,  LP
+DISCA     	Discovery, Inc. - Series A
+LAC       	Lithium Americas Corp.
+VTWV      	Vanguard Russell 2000 Value ETF
+VIGI      	Vanguard International Dividend
+TPIC      	TPI Composites, Inc.
+OGIG      	O&#x27;Shares Global Internet Giants
+MHK       	Mohawk Industries, Inc.
+UHS       	Universal Health Services, Inc.
+UMC       	United Microelectronics Corpora
+KEYS      	Keysight Technologies Inc.
+SPOT      	Spotify Technology S.A.
+IDV       	iShares International Select Di
+RGLD      	Royal Gold, Inc.
+SHM       	SPDR Nuveen Bloomberg Barclays
+SLGN      	Silgan Holdings Inc.
+RSLS      	ReShape Lifesciences, Inc.
+VNLA      	Janus Henderson Short Duration
+MMIN      	IQ MacKay Municipal Insured ETF
+GRNQ      	Greenpro Capital Corp.
+FOLD      	Amicus Therapeutics, Inc.
+AXTA      	Axalta Coating Systems Ltd.
+ARGX      	argenx SE
+GRWG      	GrowGeneration Corp.
+ACHR      	Archer Aviation Inc.
+GRMN      	Garmin Ltd.
+IP        	International Paper Company
+IRWD      	Ironwood Pharmaceuticals, Inc.
+IWC       	iShares Microcap ETF
+MTH       	Meritage Homes Corporation
+SAVA      	Cassava Sciences, Inc.
+GSY       	Invesco Ultra Short Duration ET
+MAS       	Masco Corporation
+DIA       	SPDR Dow Jones Industrial Avera
+DLB       	Dolby Laboratories
+IHF       	iShares U.S. Health Care Provid
+VHT       	Vanguard Health Care ETF
+IPAY      	ETFMG Prime Mobile Payments ETF
+GSHD      	Goosehead Insurance, Inc.
+BX        	Blackstone Inc.
+EWD       	iShares Inc iShares MSCI Sweden
+LSI       	Life Storage, Inc.
+BBAX      	JPMorgan BetaBuilders Developed
+LU        	Lufax Holding Ltd
+VTNR      	Vertex Energy, Inc
+WING      	Wingstop Inc.
+ATER      	Aterian, Inc.
+KYMR      	Kymera Therapeutics, Inc.
+CFLT      	Confluent, Inc.
+GHC       	Graham Holdings Company
+HA        	Hawaiian Holdings, Inc.
+SC        	Santander Consumer USA Holdings
+ENR       	Energizer Holdings, Inc.
+AMT       	American Tower Corporation
+BKU       	BankUnited, Inc.
+CMF       	iShares California Muni Bond ET
+QUAL      	iShares MSCI USA Quality Factor
+SUSC      	iShares ESG Aware USD Corporate
+BANC      	Banc of California, Inc.
+INTU      	Intuit Inc.
+SBLK      	Star Bulk Carriers Corp.
+TECL      	Direxion Technology Bull 3X Sha
+VNM       	VanEck Vietnam ETF
+LIVN      	LivaNova PLC
+AAWW      	Atlas Air Worldwide Holdings
+DXCM      	DexCom, Inc.
+PCI       	PIMCO Dynamic Credit and Mortga
+PCRX      	Pacira BioSciences, Inc.
+WLL       	Whiting Petroleum Corporation
+OCGN      	Ocugen, Inc.
+ZTO       	ZTO Express
+AM        	Antero Midstream Corporation
+WOOF      	Petco Health and Wellness Compa
+ADC       	Agree Realty Corporation
+AZZ       	AZZ Inc.
+D         	Dominion Energy, Inc.
+DSI       	iShares MSCI KLD 400 Social ETF
+JNK       	SPDR Bloomberg Barclays High Yi
+WSC       	WillScot Mobile Mini Holdings C
+MSM       	MSC Industrial Direct Company,
+SAND      	Sandstorm Gold Ltd.
+FBND      	Fidelity Total Bond ETF
+CLVS      	Clovis Oncology, Inc.
+CUBI      	Customers Bancorp, Inc
+EPP       	iShares MSCI Pacific Ex-Japan I
+HCI       	HCI Group, Inc.
+IIVI      	II-VI Incorporated
+PFF       	iShares Preferred and Income Se
+OPEN      	Opendoor Technologies Inc
+CRSR      	Corsair Gaming, Inc.
+RCI       	Rogers Communication, Inc.
+TGA       	TransGlobe Energy Corporation
+TUP       	Tupperware Brands Corporation
+COMT      	iShares GSCI Commodity Dynamic
+ZYME      	Zymeworks Inc.
+MSGE      	Madison Square Garden Entertain
+DE        	Deere &amp; Company
+ERX       	Direxion Energy Bull 2X Shares
+MAXR      	Maxar Technologies Inc.
+NANR      	SPDR S&amp;P North American Natural
+ASIX      	AdvanSix Inc.
+DOYU      	DouYu International Holdings Li
+BBY       	Best Buy Co., Inc.
+CASH      	Meta Financial Group, Inc.
+CPE       	Callon Petroleum Company
+CSX       	CSX Corporation
+CVE       	Cenovus Energy Inc
+NOVT      	Novanta Inc.
+NTCT      	NetScout Systems, Inc.
+PEJ       	Invesco Dynamic Leisure and Ent
+SCHV      	Schwab U.S. Large-Cap Value ETF
+USFR      	WisdomTree Floating Rate Treasu
+CVNA      	Carvana Co.
+VEI       	Vine Energy Inc.
+ABB       	ABB Ltd
+ASPN      	Aspen Aerogels, Inc.
+CBU       	Community Bank System, Inc.
+DJP       	iPath Bloomberg Commodity Index
+DON       	WisdomTree U.S. MidCap Dividend
+GEL       	Genesis Energy, L.P.
+USNA      	USANA Health Sciences, Inc.
+EURN      	Euronav NV
+HUYA      	HUYA Inc.
+ROOT      	Root, Inc.
+BLDR      	Builders FirstSource, Inc.
+FLR       	Fluor Corporation
+MMS       	Maximus, Inc.
+RDUS      	Radius Health, Inc.
+TDS       	Telephone and Data Systems, Inc
+BOKF      	BOK Financial Corporation
+DK        	Delek US Holdings, Inc.
+HTGC      	Hercules Capital, Inc.
+MGV       	Vanguard Mega Cap Value ETF
+TD        	Toronto Dominion Bank
+DPST      	Direxion Daily Regional Banks B
+LI        	Li Auto Inc.
+DOCS      	Doximity, Inc.
+CLX       	Clorox Company
+MANT      	ManTech International Corporati
+NXPI      	NXP Semiconductors N.V.
+SIVB      	SVB Financial Group
+SQQQ      	ProShares UltraPro Short QQQ
+JETS      	U.S. Global Jets ETF
+ALIT      	Alight, Inc.
+RKLB      	Rocket Lab USA, Inc.
+O         	Realty Income Corporation
+PDM       	Piedmont Office Realty Trust, I
+TTGT      	TechTarget, Inc.
+WTI       	W&amp;T Offshore, Inc.
+LBRDA     	Liberty Broadband Corporation
+ADT       	ADT Inc.
+FNGU      	MicroSectors FANG  Index 3X Lev
+IPAR      	Inter Parfums, Inc.
+IQDF      	FlexShares International Qualit
+PXD       	Pioneer Natural Resources Compa
+TXG       	10x Genomics, Inc.
+JXN       	Jackson Financial Inc.
+BIL       	SPDR Bloomberg Barclays 1-3 Mon
+GCO       	Genesco Inc.
+PAA       	Plains All American Pipeline, L
+PNM       	PNM Resources, Inc.
+QADA      	QAD Inc.
+PEN       	Penumbra, Inc.
+DOMO      	Domo, Inc.
+DAVA      	Endava plc
+ADUS      	Addus HomeCare Corporation
+BKH       	Black Hills Corporation
+MGNX      	MacroGenics, Inc.
+TRGP      	Targa Resources, Inc.
+SFIX      	Stitch Fix, Inc.
+BEP       	Brookfield Renewable Partners L
+DIN       	Dine Brands Global, Inc. Common
+WRB       	W.R. Berkley Corporation
+WW        	WW International, Inc.
+IQSU      	IQ Candriam ESG US Equity ETF
+PATH      	UiPath, Inc.
+DLO       	DLocal Limited
+AGCO      	AGCO Corporation
+ITT       	ITT Inc.
+MTSI      	MACOM Technology Solutions Hold
+UMH       	UMH Properties, Inc.
+EZFL      	EzFill Holdings, Inc.
+AMPL      	Amplitude, Inc.
+BA        	Boeing Company
+CDK       	CDK Global, Inc.
+EFAV      	iShares MSCI EAFE Min Vol Facto
+GM        	General Motors Company
+QTWO      	Q2 Holdings, Inc.
+TA        	TravelCenters of America Inc.
+ZION      	Zions Bancorporation N.A.
+FDVV      	Fidelity High Dividend ETF
+GD        	General Dynamics Corporation
+GPI       	Group 1 Automotive, Inc.
+IBOC      	International Bancshares Corpor
+TSN       	Tyson Foods, Inc.
+CDEV      	Centennial Resource Development
+SIBN      	SI-BONE, Inc.
+CCRN      	Cross Country Healthcare, Inc.
+DOC       	Physicians Realty Trust
+IFF       	International Flavors &amp; Fragran
+IONS      	Ionis Pharmaceuticals, Inc.
+PGR       	Progressive Corporation
+SEE       	Sealed Air Corporation
+LEVI      	Levi Strauss &amp; Co
+DFAI      	Dimensional International Core
+FXR       	First Trust Industrials AlphaDE
+HYMB      	SPDR Nuveen Bloomberg Barclays
+IJR       	iShares Core S&amp;P Small-Cap ETF
+UMPQ      	Umpqua Holdings Corporation
+WM        	Waste Management, Inc.
+VZIO      	VIZIO Holding Corp.
+BERY      	Berry Global Group, Inc.
+BK        	The Bank of New York Mellon Cor
+LIT       	Global X Lithium &amp; Battery Tech
+MLM       	Martin Marietta Materials, Inc.
+SUPN      	Supernus Pharmaceuticals, Inc.
+SUM       	Summit Materials, Inc.
+OLLI      	Ollie&#x27;s Bargain Outlet Holdings
+RGNX      	REGENXBIO Inc.
+EMHY      	iShares J.P. Morgan EM High Yie
+FTS       	Fortis Inc.
+INSM      	Insmed, Inc.
+SAP       	SAP  SE
+UPLD      	Upland Software, Inc.
+PGRE      	Paramount Group, Inc.
+DRSK      	Aptus Defined Risk ETF
+GINN      	Goldman Sachs Innovate Equity E
+NEE       	NextEra Energy, Inc.
+SNV       	Synovus Financial Corp.
+FTAI      	Fortress Transportation and Inf
+TME       	Tencent Music Entertainment Gro
+HEXO      	HEXO Corp.
+CHRW      	C.H. Robinson Worldwide, Inc.
+HD        	Home Depot, Inc.
+PXLW      	Pixelworks, Inc.
+ELAN      	Elanco Animal Health Incorporat
+SLGC      	SomaLogic, Inc.
+AAL       	American Airlines Group, Inc.
+BMI       	Badger Meter, Inc.
+EQNR      	Equinor ASA
+MDU       	MDU Resources Group, Inc.
+PHB       	Invesco Fundamental High Yield
+SCHG      	Schwab U.S. Large-Cap Growth ET
+XLI       	SPDR Select Sector Fund - Indus
+MRUS      	Merus N.V.
+DBX       	Dropbox, Inc.
+XL        	XL Fleet Corp.
+IS        	ironSource Ltd.
+AUB       	Atlantic Union Bankshares Corpo
+ESGR      	Enstar Group Limited
+PM        	Philip Morris International Inc
+DTE       	DTE Energy Company
+IWR       	iShares Russell Mid-Cap ETF
+MKL       	Markel Corporation
+PLCE      	Children&#x27;s Place, Inc.
+VTWG      	Vanguard Russell 2000 Growth ET
+WEN       	Wendy&#x27;s Company
+GOSS      	Gossamer Bio, Inc.
+FRSH      	Freshworks Inc.
+ICF       	iShares Cohen &amp; Steers REIT ETF
+SEIC      	SEI Investments Company
+ADBE      	Adobe Inc.
+ARKQ      	ARK Autonomous Technology &amp; Rob
+ENSG      	The Ensign Group, Inc.
+NWS       	News Corporation
+NYF       	iShares New York Muni Bond ETF
+RODM      	Hartford Multifactor Developed
+WBT       	Welbilt, Inc.
+NGMS      	NeoGames S.A.
+CACI      	CACI International, Inc.
+CTLT      	Catalent, Inc.
+EWA       	iShares MSCI Australia Index Fu
+NOV       	NOV Inc.
+PAYC      	Paycom Software, Inc.
+SJM       	J.M. Smucker Company
+USAC      	USA Compression Partners, LP
+LX        	LexinFintech Holdings Ltd.
+CHK       	Chesapeake Energy Corporation
+ISEE      	IVERIC bio, Inc.
+JKS       	JinkoSolar Holding Company Limi
+REZ       	iShares Residential and Multise
+PKW       	Invesco BuyBack Achievers ETF
+QAI       	IQ Hedge MultiIQ Hedge Multi-St
+TBBK      	The Bancorp, Inc.
+OUSA      	OShares U.S. Quality Dividend E
+CEIX      	CONSOL Energy Inc.
+JAGG      	JPMorgan U.S. Aggregate Bond ET
+ORCC      	Owl Rock Capital Corporation
+CXM       	Sprinklr, Inc.
+GSG       	iShares GSCI Commodity-Indexed
+KLAC      	KLA Corporation
+RDVY      	First Trust Rising Dividend Ach
+ROBO      	Exchange Traded Concepts Trust
+WELL      	Welltower Inc.
+ALGN      	Align Technology, Inc.
+FNCL      	Fidelity MSCI Financials Index
+GSKY      	GreenSky, Inc.
+BBMC      	JPMorgan BetaBuilders U.S. Mid
+GDRX      	GoodRx Holdings, Inc.
+IBM       	International Business Machines
+ICPT      	Intercept Pharmaceuticals, Inc.
+INFN      	Infinera Corporation
+KRA       	Kraton Corporation
+ABT       	Abbott Laboratories
+CAMT      	Camtek Ltd.
+EQT       	EQT Corporation
+GIL       	Gildan Activewear, Inc.
+HEAR      	Turtle Beach Corporation
+MUB       	iShares National Muni Bond ETF
+VRNT      	Verint Systems Inc.
+WBA       	Walgreens Boots Alliance, Inc.
+XOP       	SPDR S&amp;P Oil &amp; Gas Explor &amp; Pro
+RBAC      	RedBall Acquisition Corp.
+ARI       	Apollo Commercial Real Estate F
+BLUE      	bluebird bio, Inc.
+IUSB      	iShares Core Total USD Bond Mar
+PETS      	PetMed Express, Inc.
+SOHU      	Sohu.com Limited
+TKR       	Timken Company
+EVBG      	Everbridge, Inc.
+RPTX      	Repare Therapeutics Inc.
+ET        	Energy Transfer LP
+IAU       	iShares Gold Trust Shares of th
+CMCSA     	Comcast Corporation
+ICUI      	ICU Medical, Inc.
+ITOT      	iShares Core S&amp;P Total U.S. Sto
+RYN       	Rayonier Inc. REIT
+SMG       	Scotts Miracle-Gro Company
+TLTD      	FlexShares Morningstar Develope
+WDFC      	WD-40 Company
+TTCF      	Tattooed Chef, Inc.
+LTCH      	Latch, Inc.
+SHLS      	Shoals Technologies Group, Inc.
+ACM       	AECOM
+CFX       	Colfax Corporation
+CXW       	CoreCivic, Inc.
+JAZZ      	Jazz Pharmaceuticals plc
+PNR       	Pentair plc.
+YALA      	Yalla Group Limited
+IPOF      	Social Capital Hedosophia Holdi
+BLFS      	BioLife Solutions, Inc.
+FPI       	Farmland Partners Inc.
+RSG       	Republic Services, Inc.
+TX        	Ternium S.A. Ternium S.A.
+WWW       	Wolverine World Wide, Inc.
+GUSH      	Direxion Daily S&amp;P Oil &amp; Gas Ex
+ASX       	ASE Technology Holding Co., Ltd
+FLEX      	Flex Ltd.
+JNPR      	Juniper Networks, Inc.
+KWR       	Quaker Chemical Corporation
+RPG       	Invesco S&amp;P 500 Pure Growth ETF
+TXN       	Texas Instruments Incorporated
+FIXD      	First Trust TCW Opportunistic F
+ABC       	AmerisourceBergen Corporation
+BHC       	Bausch Health Companies Inc.
+BLDP      	Ballard Power Systems, Inc.
+CIB       	BanColombia S.A.
+CNQ       	Canadian Natural Resources Limi
+GEO       	Geo Group Inc
+LFC       	China Life Insurance Company Li
+CERE      	Cerevel Therapeutics Holdings,
+AMN       	AMN Healthcare Services Inc AMN
+HSBC      	HSBC Holdings, plc.
+LZB       	La-Z-Boy Incorporated
+WES       	Western Midstream Partners, LP
+ZBRA      	Zebra Technologies Corporation
+RDFN      	Redfin Corporation
+BB        	BlackBerry Limited
+EWZ       	iShares Inc iShares MSCI Brazil
+OLN       	Olin Corporation
+BZUN      	Baozun Inc.
+BECN      	Beacon Roofing Supply, Inc.
+PPG       	PPG Industries, Inc.
+CNYA      	iShares MSCI China A ETF
+FLYW      	Flywire Corporation - Voting
+ACWV      	iShares MSCI Global Min Vol Fac
+CGC       	Canopy Growth Corporation
+FULT      	Fulton Financial Corporation
+MKC       	McCormick &amp; Company, Incorporat
+NWSA      	News Corporation
+OXY       	Occidental Petroleum Corporatio
+VICR      	Vicor Corporation
+BRP       	BRP Group, Inc.
+FYBR      	Frontier Communications Parent,
+AWK       	American Water Works Company, I
+SPYX      	SPDR S&amp;P 500 Fossil Fuel Reserv
+FTNT      	Fortinet, Inc.
+IEFA      	iShares Core MSCI EAFE ETF
+PBCT      	People&#x27;s
+VB        	Vanguard Small-Cap ETF
+VSAT      	ViaSat, Inc.
+HCC       	Warrior Met Coal, Inc.
+ACN       	Accenture plc
+COOP      	Mr. Cooper Group Inc.
+CTRA      	Coterra Energy Inc.
+NS        	Nustar Energy L.P.
+TBI       	TrueBlue, Inc.
+VLO       	Valero Energy Corporation
+LBRT      	Liberty Oilfield Services Inc.
+FRHC      	Freedom Holding Corp.
+GOEV      	Canoo Inc.
+CCOI      	Cogent Communications Holdings,
+M         	Macy&#x27;s Inc
+MTRN      	Materion Corporation
+PFSI      	PennyMac Financial Services, In
+SNY       	Sanofi
+STE       	STERIS plc
+XEL       	Xcel Energy Inc.
+DSKE      	Daseke, Inc.
+DIDI      	DiDi Global Inc.
+HLTH      	Cue Health Inc.
+DBRG      	DigitalBridge Group, Inc.
+KIE       	SPDR S&amp;P Insurance ETF
+SPGM      	SPDR Portfolio MSCI Global Stoc
+TFII      	TFI International Inc.
+VV        	Vanguard Large-Cap ETF
+YUM       	Yum! Brands, Inc.
+CLFD      	Clearfield, Inc.
+IUSG      	iShares Core S&amp;P U.S. Growth ET
+LCII      	LCI Industries
+SM        	SM Energy Company
+UNM       	Unum Group
+LC        	LendingClub Corporation
+FLOW      	SPX FLOW, Inc.
+PGNY      	Progyny, Inc.
+AMBA      	Ambarella, Inc.
+RES       	RPC, Inc.
+SIMO      	Silicon Motion Technology Corpo
+YELL      	Yellow Corporation
+QRVO      	Qorvo, Inc.
+NVTA      	Invitae Corporation
+ME        	23andMe Holding Co.
+EDR       	Endeavor Group Holdings, Inc.
+BRLT      	Brilliant Earth Group, Inc.
+BAC       	Bank of America Corporation
+LYG       	Lloyds Banking Group Plc
+PXH       	Invesco FTSE RAFI Emerging Mark
+ATO       	Atmos Energy Corporation
+AWI       	Armstrong World Industries Inc
+BBBY      	Bed Bath &amp; Beyond Inc.
+ES        	Eversource Energy
+SBSW      	D/B/A Sibanye-Stillwater Limite
+KHC       	The Kraft Heinz Company
+BTU       	Peabody Energy Corporation
+PCT       	PureCycle Technologies, Inc.
+DB        	Deutsche Bank AG
+CHWY      	Chewy, Inc.
+AMGN      	Amgen Inc.
+MO        	Altria Group, Inc.
+NNN       	National Retail Properties
+SILJ      	ETFMG Prime Junior Silver Miner
+ETN       	Eaton Corporation, PLC
+FLWS      	1-800-FLOWERS.COM, Inc.
+KBWD      	Invesco KBW High Dividend Yield
+INBX      	Inhibrx, Inc.
+LESL      	Leslie&#x27;s, Inc.
+ABBV      	AbbVie Inc.
+EES       	WisdomTree U.S. SmallCap Fund
+TEX       	Terex Corporation
+IBDM      	iShares iBonds Dec 2021 Term Co
+ESGE      	iShares ESG Aware MSCI EM ETF
+GEVO      	Gevo, Inc.
+NVS       	Novartis AG
+ROK       	Rockwell Automation, Inc.
+VOT       	Vanguard Mid-Cap Growth ETF
+AZUL      	Azul S.A.
+IR        	Ingersoll Rand Inc.
+ACAD      	ACADIA Pharmaceuticals Inc.
+ATSG      	Air Transport Services Group, I
+BYD       	Boyd Gaming Corporation
+FCFS      	FirstCash, Inc.
+TGI       	Triumph Group, Inc.
+UMBF      	UMB Financial Corporation
+HDEF      	Xtrackers MSCI EAFE High Divide
+ETWO      	E2open Parent Holdings, Inc.
+BDX       	Becton, Dickinson and Company
+ERF       	Enerplus Corporation
+LKQ       	LKQ Corporation
+SPTS      	SPDR Portfolio Short Term Treas
+DEA       	Easterly Government Properties,
+FLCO      	Franklin Liberty Investment Gra
+FTDR      	frontdoor, inc.
+BFAM      	Bright Horizons Family Solution
+CCJ       	Cameco Corporation
+IGSB      	iShares 1-5 Year Investment Gra
+MTDR      	Matador Resources Company
+SXC       	SunCoke Energy, Inc.
+NTR       	Nutrien Ltd.
+TENB      	Tenable Holdings, Inc.
+ACGL      	Arch Capital Group Ltd.
+UL        	Unilever PLC
+VEDL      	Vedanta Limited
+NTNX      	Nutanix, Inc.
+FAMI      	Farmmi, Inc. Ordinary Shares
+PYXS      	Pyxis Oncology, Inc.
+IUSV      	iShares Core S&amp;P U.S. Value ETF
+MTB       	M&amp;T Bank Corporation
+VOE       	Vanguard Mid-Cap Value ETF
+XOM       	Exxon Mobil Corporation
+KRNT      	Kornit Digital Ltd.
+LITE      	Lumentum Holdings Inc.
+NDAQ      	Nasdaq, Inc.
+MRNA      	Moderna, Inc.
+GOTU      	Gaotu Techedu Inc.
+XMTR      	Xometry, Inc.
+FRT       	Federal Realty Investment Trust
+TBF       	ProShares Short 20+ Year Treasu
+VIAC      	ViacomCBS Inc.
+PING      	Ping Identity Holding Corp.
+GL        	Globe Life Inc.
+HL        	Hecla Mining Company
+IVV       	iShares Core S&amp;P 500 ETF
+KSU       	Kansas City Southern
+SPLG      	SPDR Portfolio S&amp;P 500 ETF
+SPTI      	SPDR Portfolio Intermediate Ter
+VAW       	Vanguard Materials ETF
+RCUS      	Arcus Biosciences, Inc.
+LDEM      	iShares ESG MSCI EM Leaders ETF
+RNW       	ReNew Energy Global plc
+ALHC      	Alignment Healthcare, Inc.
+HRI       	Herc Holdings Inc.
+HURN      	Huron Consulting Group Inc.
+TLT       	iShares 20+ Year Treasury Bond
+PAVM      	PAVmed Inc.
+FLGT      	Fulgent Genetics, Inc.
+FMB       	First Trust Managed Municipal E
+OTTR      	Otter Tail Corporation
+URBN      	Urban Outfitters, Inc.
+WYNN      	Wynn Resorts, Limited
+XPO       	XPO Logistics, Inc.
+XSW       	SPDR S&amp;P Software &amp; Services ET
+NTRA      	Natera, Inc.
+TPB       	Turning Point Brands, Inc.
+HGV       	Hilton Grand Vacations Inc.
+USMC      	Principal U.S. Mega-Cap ETF
+PLAN      	Anaplan, Inc.
+OM        	Outset Medical, Inc.
+CS        	Credit Suisse Group
+HNRG      	Hallador Energy Company
+JBHT      	J.B. Hunt Transport Services, I
+LPSN      	LivePerson, Inc.
+SGMO      	Sangamo Therapeutics, Inc.
+SUNW      	Sunworks, Inc.
+TPX       	Tempur Sealy International, Inc
+VXUS      	Vanguard Total International St
+BLI       	Berkeley Lights, Inc.
+ONTF      	ON24, Inc.
+FVD       	First Trust VL Dividend
+HR        	Healthcare Realty Trust Incorpo
+MCK       	McKesson Corporation
+RFP       	Resolute Forest Products Inc.
+SCWX      	SecureWorks Corp.
+QFIN      	360 DigiTech, Inc.
+RXT       	Rackspace Technology, Inc.
+EPD       	Enterprise Products Partners L.
+FEP       	First Trust Europe AlphaDEX Fun
+TIPX      	SPDR Bloomberg Barclays 1-10 Ye
+YEXT      	Yext, Inc.
+FLJP      	Franklin FTSE Japan ETF
+BCPC      	Balchem Corporation
+ILMN      	Illumina, Inc.
+LGIH      	LGI Homes, Inc.
+LHX       	L3Harris Technologies, Inc.
+LOGI      	Logitech International S.A. - R
+NHI       	National Health Investors, Inc.
+PAM       	Pampa Energia S.A. Pampa Energi
+SSL       	Sasol Ltd.
+TYL       	Tyler Technologies, Inc.
+XYL       	Xylem Inc.
+ASTS      	AST SpaceMobile, Inc.
+PSFE      	Paysafe Limited
+BABA      	Alibaba Group Holding Limited
+CFO       	VictoryShares US 500 Enhanced V
+CSIQ      	Canadian Solar Inc.
+FIVE      	Five Below, Inc.
+MANH      	Manhattan Associates, Inc.
+VMBS      	Vanguard Mortgage-Backed Securi
+ARKK      	ARK Innovation ETF
+YSG       	Yatsen Holding Limited
+DV        	DoubleVerify Holdings, Inc.
+AEG       	AEGON N.V.
+NUGT      	Direxion Daily Gold Miners Inde
+SUI       	Sun Communities, Inc.
+UFS       	Domtar Corporation
+VCR       	Vanguard Consumer Discretion ET
+VIV       	Telefonica Brasil S.A.
+XLNX      	Xilinx, Inc.
+BSM       	Black Stone Minerals, L.P.
+BIPC      	Brookfield Infrastructure Partn
+GGPI      	Gores Guggenheim, Inc.
+FXD       	First Trust Cons. Discret. Alph
+GPK       	Graphic Packaging Holding Compa
+IYM       	iShares U.S. Basic Materials ET
+KGC       	Kinross Gold Corporation
+UAA       	Under Armour, Inc.
+XSLV      	Invesco S&amp;P SmallCap Low Volati
+HACK      	ETFMG Prime Cyber Security ETF
+VICI      	VICI Properties Inc.
+RIDE      	Lordstown Motors Corp.
+SMFR      	Sema4 Holdings Corp.
+GOGO      	Gogo Inc.
+SNX       	Synnex Corporation
+SNPE      	Xtrackers S&amp;P 500 ESG ETF
+SCHO      	Schwab Short-Term U.S. Treasury
+TDTF      	FlexShares iBoxx 5 Year Target
+WERN      	Werner Enterprises, Inc.
+BCI       	abrdn Bloomberg All Commodity S
+UTZ       	Utz Brands Inc
+CDNA      	CareDx, Inc.
+EWY       	iShares Inc iShares MSCI South
+FL        	Foot Locker, Inc.
+CP        	Canadian Pacific Railway Limite
+CTAS      	Cintas Corporation
+ESNT      	Essent Group Ltd.
+HTLF      	Heartland Financial USA, Inc.
+VGIT      	Vanguard Intermediate-Term Trea
+BAR       	GraniteShares Gold Trust Shares
+AZEK      	The AZEK Company Inc.
+YOU       	Clear Secure, Inc.
+AMD       	Advanced Micro Devices, Inc.
+APAM      	Artisan Partners Asset Manageme
+FMC       	FMC Corporation
+IGOV      	iShares International Treasury
+ITCI      	Intra-Cellular Therapies Inc.
+NCMI      	National CineMedia, Inc.
+FTCH      	Farfetch Limited
+METX      	Meten Holding Group Ltd.
+NWBI      	Northwest Bancshares, Inc.
+PALT      	Paltalk, Inc.
+REGI      	Renewable Energy Group, Inc.
+TDC       	Teradata Corporation
+KSA       	iShares Trust iShares MSCI Saud
+AVYA      	Avaya Holdings Corp.
+MDLA      	Medallia, Inc.
+MP        	MP Materials Corp.
+QQQJ      	Invesco NASDAQ Next Gen 100 ETF
+CPNG      	Coupang, Inc.
+COST      	Costco Wholesale Corporation
+ENLC      	EnLink Midstream, LLC
+ORCL      	Oracle Corporation
+PSEC      	Prospect Capital Corporation
+SH        	ProShares Short S&amp;P500
+VEON      	VEON Ltd.
+VTV       	Vanguard Value ETF
+AMED      	Amedisys Inc
+NURO      	NeuroMetrix, Inc.
+WTRG      	Essential Utilities, Inc.
+RXRX      	Recursion Pharmaceuticals, Inc.
+CHS       	Chico&#x27;s FAS, Inc.
+ECL       	Ecolab Inc.
+IYJ       	iShares U.S. Industrials ETF
+NSTG      	NanoString Technologies, Inc.
+V         	Visa Inc.
+WSO       	Watsco, Inc.
+JPUS      	JPMorgan Diversified Return U.S
+CHPT      	ChargePoint Holdings, Inc.
+ST        	Sensata Technologies Holding pl
+AMRC      	Ameresco, Inc.
+TDY       	Teledyne Technologies Incorpora
+VTWO      	Vanguard Russell 2000 ETF
+JVAL      	JPMorgan U.S. Value Factor ETF
+AMAT      	Applied Materials, Inc.
+ATR       	AptarGroup, Inc.
+HZO       	MarineMax, Inc.
+IXUS      	iShares Core MSCI Total Interna
+PZA       	Invesco National AMT-Free Munic
+CRVS      	Corvus Pharmaceuticals, Inc.
+KRMA      	Global X Conscious Companies ET
+ARLP      	Alliance Resource Partners, L.P
+CALM      	Cal-Maine Foods, Inc.
+CDMO      	Avid Bioservices, Inc.
+CLB       	Core Laboratories N.V.
+DWX       	SPDR S&amp;P International Dividend
+GGAL      	Grupo Financiero Galicia S.A.
+TNL       	Travel   Leisure Co.
+PUMP      	ProPetro Holding Corp.
+SNDR      	Schneider National, Inc.
+DOW       	Dow Inc.
+ALCC      	AltC Acquisition Corp.
+FXL       	First Trust Technology AlphaDEX
+ICSH      	BlackRock Ultra Short-Term Bond
+WWD       	Woodward, Inc.
+WY        	Weyerhaeuser Company
+GOOS      	Canada Goose Holdings Inc. Subo
+AGI       	Alamos Gold Inc.
+BMO       	Bank Of Montreal
+CVS       	CVS Health Corporation
+PSQ       	ProShares Short QQQ
+TAN       	Invesco Solar ETF
+VC        	Visteon Corporation
+ADNT      	Adient plc
+BIV       	Vanguard Intermediate-Term Bond
+HLT       	Hilton Worldwide Holdings Inc.
+KBH       	KB Home
+OSTK      	Overstock.com, Inc.
+LPTX      	Leap Therapeutics, Inc.
+BKLN      	Invesco Senior Loan ETF
+DLS       	WisdomTree International SmallC
+GLTR      	Aberdeen Standard Physical Prec
+HGEN      	Humanigen, Inc.
+HST       	Host Hotels
+RACE      	Ferrari N.V.
+HCIC      	Hennessy Capital Investment Cor
+EXAI      	Exscientia Plc
+KRE       	SPDR S&amp;P Regional Banking ETF
+RWL       	Invesco Exchange-Traded Fund Tr
+RYLD      	Global X Russell 2000 Covered C
+EGLE      	Eagle Bulk Shipping Inc.
+EWP       	iShares Inc iShares MSCI Spain
+GOF       	Guggenheim Strategic Opportunit
+HI        	Hillenbrand Inc
+LPI       	Laredo Petroleum, Inc.
+VBR       	Vanguard Small-Cap Value ETF
+ONTO      	Onto Innovation Inc.
+INGR      	Ingredion Incorporated
+NOMD      	Nomad Foods Limited
+CARG      	CarGurus, Inc.
+ALLO      	Allogene Therapeutics, Inc.
+CD        	Chindata Group Holdings Limited
+DKS       	Dick&#x27;s Sporting Goods Inc
+EWI       	iShares Inc iShares MSCI Italy
+MWA       	MUELLER WATER PRODUCTS
+NRIX      	Nurix Therapeutics, Inc.
+S         	SentinelOne, Inc.
+FBNC      	First Bancorp
+SHW       	Sherwin-Williams Company
+GSEW      	Goldman Sachs Equal Weight U.S.
+PLTK      	Playtika Holding Corp.
+QGEN      	Qiagen N.V.
+ROLL      	RBC Bearings Incorporated
+BKI       	Black Knight, Inc.
+BBCA      	JPMorgan BetaBuilders Canada ET
+CLVT      	Clarivate Plc
+FTA       	First Trust Large Cap Value Alp
+HTA       	Healthcare Trust of America, In
+NSC       	Norfolk Southern Corporation
+SABR      	Sabre Corporation
+TPH       	Tri Pointe Homes, Inc.
+VFH       	Vanguard Financials ETF
+SUSB      	iShares ESG Aware 1-5 Year USD
+HERO      	Global X Video Games &amp; Esports
+MSP       	Datto Holding Corp.
+AQN       	Algonquin Power &amp; Utilities Cor
+BSCM      	Invesco BulletShares 2022 Corpo
+BYRN      	Byrna Technologies, Inc.
+CELH      	Celsius Holdings, Inc.
+CTSH      	Cognizant Technology Solutions
+KALU      	Kaiser Aluminum Corporation
+LPLA      	LPL Financial Holdings Inc.
+MARA      	Marathon Digital Holdings, Inc.
+STAG      	Stag Industrial, Inc.
+URI       	United Rentals, Inc.
+UPWK      	Upwork Inc.
+AMCR      	Amcor plc
+BLMN      	Bloomin&#x27; Brands, Inc.
+DAR       	Darling Ingredients Inc.
+DVAX      	Dynavax Technologies Corporatio
+RLGY      	Realogy Holdings Corp.
+SEEL      	Seelos Therapeutics, Inc.
+SSNC      	SS&amp;C Technologies Holdings, Inc
+NRGU      	MicroSectors U.S. Big Oil Index
+APO       	Apollo Global Management, Inc.
+CLDX      	Celldex Therapeutics, Inc.
+COLM      	Columbia Sportswear Company
+GPC       	Genuine Parts Company
+MANU      	Manchester
+NOTV      	Inotiv, Inc.
+SPGI      	S&amp;P Global Inc.
+UTHR      	United Therapeutics Corporation
+UE        	Urban Edge Properties
+RVMD      	Revolution Medicines, Inc.
+CMPS      	COMPASS Pathways Plc - American
+ENVX      	Enovix Corporation
+RELY      	Remitly Global, Inc.
+NTRB      	Nutriband Inc.
+BTCM      	BIT Mining Limited
+CNK       	Cinemark Holdings Inc Cinemark
+HIMX      	Himax Technologies, Inc.
+ORAN      	Orange
+VCYT      	Veracyte, Inc.
+IAGG      	iShares International Aggregate
+LPRO      	Open Lending Corporation
+APG       	APi Group Corporation
+JOBS      	51job, Inc.
+PAR       	PAR Technology Corporation
+METC      	Ramaco Resources, Inc.
+CZR       	Caesars Entertainment, Inc.
+MNST      	Monster Beverage Corporation
+PBR       	Petroleo Brasileiro S.A.- Petro
+SAFM      	Sanderson Farms, Inc.
+SPIB      	SPDR Portfolio Intermediate Ter
+ATKR      	Atkore Inc.
+NIU       	Niu Technologies
+TASK      	TaskUs, Inc.
+LRCX      	Lam Research Corporation
+MOO       	VanEck Agribusiness ETF
+TRI       	Thomson Reuters Corp
+VIS       	Vanguard Industrials ETF
+WKHS      	Workhorse Group, Inc.
+JYNT      	The Joint Corp.
+BSCO      	Invesco BulletShares 2024 Corpo
+CALX      	Calix, Inc
+FANG      	Diamondback Energy, Inc. - Comm
+LVS       	Las Vegas Sands Corp.
+SKYY      	First Trust Cloud Computing ETF
+AMZN      	Amazon.com, Inc.
+ATI       	Allegheny Technologies Incorpor
+CPT       	Camden Property Trust
+KBWB      	Invesco KBW Bank ETF
+LUMN      	Lumen Technologies, Inc.
+SIGI      	Selective Insurance Group, Inc.
+WST       	West Pharmaceutical Services, I
+BYSI      	BeyondSpring, Inc.
+CSTL      	Castle Biosciences, Inc.
+ATGE      	Adtalem Global Education Inc.
+FRC       	FIRST REPUBLIC BANK
+GSK       	GlaxoSmithKline PLC
+SPSC      	SPS Commerce, Inc.
+SPYV      	SPDR Series Trust SPDR Portfoli
+FTV       	Fortive Corporation
+APOP      	Cellect Biotechnology Ltd.
+REKR      	Rekor Systems, Inc.
+FLCB      	Franklin Liberty U.S. Core Bond
+STVN      	Stevanato Group S.p.A.
+DEO       	Diageo plc
+RE        	Everest Re Group, Ltd.
+PTLC      	Pacer Fund Trust Pacer Trendpil
+GDX       	VanEck Vectors Gold Miners ETF
+NOK       	Nokia Corporation Sponsored
+MRVI      	Maravai LifeSciences Holdings,
+CWAN      	Clearwater Analytics Holdings,
+BBL       	BHP Group PlcSponsored
+CIM       	Chimera Investment Corporation
+EEM       	iShares MSCI Emerging Index Fun
+ESTE      	Earthstone Energy, Inc.
+FLTR      	VanEck Investment Grade Floatin
+IWM       	iShares Russell 2000 ETF
+BJ        	BJ&#x27;s Wholesale Club Holdings, I
+BRKR      	Bruker Corporation
+BSV       	Vanguard Short-Term Bond ETF
+FIW       	First Trust Water ETF
+GMF       	SPDR S&amp;P Emerging Asia Pacific
+ILCV      	iShares Morningstar Large-Cap
+QDF       	FlexShares Quality Dividend Ind
+SPEM      	SPDR Index Shares Fund SPDR Por
+VNOM      	Viper Energy Partners LP
+YUMC      	Yum China Holdings, Inc.
+BEPC      	Brookfield Renewable Corporatio
+SUMO      	Sumo Logic, Inc.
+AIMC      	Altra Industrial Motion Corp.
+GILD      	Gilead Sciences, Inc.
+DDOG      	Datadog, Inc.
+ZI        	ZoomInfo Technologies Inc.
+AOK       	iShares Core Conservative Alloc
+AVA       	Avista Corporation
+EGHT      	8x8 Inc
+EWJ       	iShares MSCI Japan Index Fund
+OMER      	Omeros Corporation
+OPRX      	OptimizeRx Corporation
+CCL       	Carnival Corporation
+MDT       	Medtronic plc.
+NATI      	National Instruments Corporatio
+STPZ      	PIMCO 1-5 Year U.S. TIPS Index
+VYMI      	Vanguard International High Div
+FINX      	Global X FinTech ETF
+NNOX      	NANO-X IMAGING LTD
+STEM      	Stem, Inc.
+CSAN      	Cosan S.A.
+AGNC      	AGNC Investment Corp.
+ALSN      	Allison Transmission Holdings,
+AMPY      	Amplify Energy Corp.
+MNA       	IQ Merger Arbitrage ETF
+OTEX      	Open Text Corporation
+BCYC      	Bicycle Therapeutics plc
+CAKE      	The Cheesecake Factory Incorpor
+CRS       	Carpenter Technology Corporatio
+IDLV      	Invesco S&amp;P International Devel
+PLAY      	Dave &amp; Buster&#x27;s Entertainment,
+AGQ       	ProShares Ultra Silver
+DGS       	WisdomTree Emerging Market Smal
+IWS       	iShares Russell Mid-cap Value E
+ROG       	Rogers Corporation
+EAGG      	iShares ESG Aware U.S. Aggregat
+SGFY      	Signify Health, Inc.
+KNBE      	KnowBe4, Inc.
+FLXN      	Flexion Therapeutics, Inc.
+HBI       	Hanesbrands Inc.
+MXI       	iShares Global Materials ETF
+NDSN      	Nordson Corporation
+OLED      	Universal Display Corporation
+RLI       	RLI Corp.
+FINV      	FinVolution Group
+LICY      	Li-Cycle Holdings Corp.
+POSH      	Poshmark, Inc.
+BCEI      	Bonanza Creek Energy, Inc.
+BOH       	Bank of Hawaii Corporation
+LUV       	Southwest Airlines Company
+MINT      	PIMCO Enhanced Short Maturity A
+MRO       	Marathon Oil Corporation
+VRSN      	VeriSign, Inc.
+SMLF      	iShares MSCI USA Small-Cap Mult
+SNSR      	Global X Internet of Things ETF
+GAN       	GAN Limited
+AJG       	Arthur J. Gallagher &amp; Co.
+EPR       	EPR Properties
+T         	AT&amp;T Inc.
+UCTT      	Ultra Clean Holdings, Inc.
+CI        	Cigna Corporation
+KB        	KB Financial Group Inc
+KIRK      	Kirkland&#x27;s, Inc.
+LQDH      	iShares Interest Rate Hedged Co
+SDOG      	ALPS Sector Dividend Dogs ETF
+SPXU      	ProShares UltraPro Short S&amp;P500
+SYNH      	Syneos Health, Inc.
+LRGF      	iShares MSCI USA Multifactor ET
+GBT       	Global Blood Therapeutics, Inc.
+REAL      	The RealReal, Inc.
+KRBN      	KraneShares Global Carbon ETF
+AB        	AllianceBernstein Holding L.P.
+HEZU      	iShares Currency Hedged MSCI Eu
+IQV       	IQVIA Holdings, Inc.
+ITA       	iShares U.S. Aerospace &amp; Defens
+MODV      	ModivCare Inc.
+PINC      	Premier, Inc.
+SPR       	Spirit Aerosystems Holdings, In
+STAA      	STAAR Surgical Company
+TU        	Telus Corporation
+LCID      	Lucid Group, Inc.
+AG        	First Majestic Silver Corp.
+EXPO      	Exponent, Inc.
+HRC       	Hill-Rom Holdings Inc
+PCG       	Pacific Gas &amp; Electric Co.
+RMD       	ResMed Inc.
+VLCN      	Volcon, Inc.
+HUT       	Hut 8 Mining Corp.
+AEO       	American Eagle Outfitters, Inc.
+INFO      	IHS Markit Ltd.
+PRTS      	CarParts.com, Inc.
+SLYG      	SPDR S&amp;P 600 Small Cap Growth E
+NXTP      	NextPlay Technologies, Inc.
+BL        	BlackLine, Inc.
+RFL       	Rafael Holdings, Inc.
+HYGV      	FlexShares High Yield Value-Sco
+DCRC      	Decarbonization Plus Acquisitio
+COWN      	Cowen Inc.
+PKX       	POSCO
+SCHX      	Schwab U.S. Large-Cap ETF
+VNQI      	Vanguard Global ex-U.S. Real Es
+SOS       	SOS Limited
+CMBM      	Cambium Networks Corporation
+BAX       	Baxter International Inc.
+NUS       	Nu Skin Enterprises, Inc.
+PFM       	Invesco Dividend Achievers ETF
+VONV      	Vanguard Russell 1000 Value ETF
+CYBR      	CyberArk Software Ltd.
+VCLT      	Vanguard Long-Term Corporate Bo
+VTI       	Vanguard Total Stock Market ETF
+CABO      	Cable One, Inc.
+EIX       	Edison International
+FTI       	TechnipFMC plc
+MCY       	Mercury General Corporation
+SKT       	Tanger Factory Outlet Centers,
+STIP      	iShares 0-5 Year TIPS Bond ETF
+VIAV      	Viavi Solutions Inc.
+CRIS      	Curis, Inc.
+FLT       	FleetCor Technologies, Inc.
+MKTX      	MarketAxess Holdings, Inc.
+OPK       	Opko Health, Inc.
+SAM       	Boston Beer Company, Inc.
+SPYG      	SPDR Series Trust SPDR Portfoli
+TJX       	TJX Companies, Inc.
+USRT      	iShares Core U.S. REIT ETF
+RPD       	Rapid7, Inc.
+TIGR      	UP Fintech Holding Limited
+DHT       	DHT Holdings, Inc.
+HOLX      	Hologic, Inc.
+NCTY      	The9 Limited - American Deposit
+PBI       	Pitney Bowes Inc.
+PWR       	Quanta Services, Inc.
+SEDG      	SolarEdge Technologies, Inc.
+DM        	Desktop Metal, Inc.
+AVIR      	Atea Pharmaceuticals, Inc.
+IYC       	iShares U.S. Consumer Services
+MDIV      	Multi-Asset Diversified Income
+OUNZ      	VanEck Merk Gold Trust
+PVH       	PVH Corp.
+RWX       	SPDR DJ Wilshire Intl Real Esta
+TDIV      	First Trust NASDAQ Technology D
+FOXA      	Fox Corporation
+BBWI      	Bath &amp; Body Works, Inc.
+CHE       	Chemed Corp
+DAC       	Danaos Corporation
+IMCG      	iShares Morningstar Mid-Cap Gro
+PEP       	Pepsico, Inc.
+POST      	Post Holdings, Inc.
+IMVT      	Immunovant, Inc.
+VIR       	Vir Biotechnology, Inc.
+AXL       	American Axle &amp; Manufacturing H
+EWW       	iShares Inc iShares MSCI Mexico
+FB        	Facebook, Inc.
+GTN       	Gray Television, Inc.
+HCA       	HCA Healthcare, Inc.
+HYLS      	First Trust Tactical High Yield
+NYCB      	New York Community Bancorp, Inc
+WPC       	W. P. Carey Inc. REIT
+EVGO      	EVgo Inc.
+ZIP       	ZipRecruiter, Inc.
+ESMT      	EngageSmart, Inc.
+CXP       	Columbia Property Trust, Inc.
+IEV       	iShares Europe ETF
+JBL       	Jabil Inc.
+MNKD      	MannKind Corporation
+SMH       	VanEck Semiconductor ETF
+SPXC      	SPX Corporation
+FOX       	Fox Corporation
+RAPT      	RAPT Therapeutics, Inc.
+ACVA      	ACV Auctions Inc.
+IJT       	iShares S&amp;P Small-Cap 600 Growt
+PMT       	PennyMac Mortgage Investment Tr
+PNQI      	Invesco Nasdaq Internet ETF
+SDY       	SPDR S&amp;P Dividend ETF
+PSC       	Principal U.S. Small-Cap Multi-
+CNNE      	Cannae Holdings, Inc.
+FWRG      	First Watch Restaurant Group, I
+AAT       	American Assets Trust, Inc.
+CWI       	SPDR MSCI ACWI ex-US ETF
+PPLT      	Aberdeen Standard Physical Plat
+RH        	RH
+SR        	Spire Inc.
+TAL       	TAL Education Group
+MKD       	Molecular Data Inc.
+BEKE      	KE Holdings Inc
+DTM       	DT Midstream, Inc.
+LTPZ      	Pimco 15  Year U.S. TIPS Index
+PG        	Procter &amp; Gamble Company
+SCCO      	Southern Copper Corporation
+VGK       	Vanguard FTSEEuropean ETF
+VMI       	Valmont Industries, Inc.
+WDC       	Western Digital Corporation
+BILI      	Bilibili Inc.
+SEAH      	Sports Entertainment Acquisitio
+PCOR      	Procore Technologies, Inc.
+SGEN      	Seagen Inc.
+JHML      	John Hancock Multifactor Large
+BBUS      	JPMorgan BetaBuilders U.S. Equi
+FOUR      	Shift4 Payments, Inc.
+BGFV      	Big 5 Sporting Goods Corporatio
+BSCL      	Invesco BulletShares 2021 Corpo
+BXMT      	Blackstone Mortgage Trust, Inc.
+ODP       	The ODP Corporation
+RBA       	Ritchie Bros. Auctioneers Incor
+SNA       	Snap-On Incorporated
+SSTK      	Shutterstock, Inc.
+GNOG      	Golden Nugget Online Gaming, In
+CANO      	Cano Health, Inc.
+MEG       	Montrose Environmental Group, I
+DIBS      	1stdibs.com, Inc.
+MET       	MetLife, Inc.
+MORN      	Morningstar, Inc.
+MRIN      	Marin Software Incorporated
+STT       	State Street Corporation
+TRIP      	TripAdvisor, Inc.
+VWO       	Vanguard FTSE Emerging Markets
+MSGS      	Madison Square Garden Sports Co
+COLD      	Americold Realty Trust
+MNTV      	Momentive Global Inc.
+ABCB      	Ameris Bancorp
+AUPH      	Aurinia Pharmaceuticals Inc
+GSL       	Global Ship Lease Inc New
+LNN       	Lindsay Corporation
+MDC       	M.D.C. Holdings, Inc.
+SONY      	Sony Group Corporation
+SNPX      	Synaptogenix, Inc.
+COUR      	Coursera, Inc.
+OLPX      	Olaplex Holdings, Inc.
+WK        	Workiva Inc.
+ICVT      	iShares Convertible Bond ETF
+ALT       	Altimmune, Inc.
+NUSI      	Nationwide Risk-Managed Income
+STEP      	StepStone Group Inc.
+BSY       	Bentley Systems, Incorporated
+EFC       	Ellington Financial Inc.
+EXPE      	Expedia Group, Inc.
+INVA      	Innoviva, Inc.
+PICK      	iShares MSCI Global Select Meta
+SJI       	South Jersey Industries, Inc.
+WSM       	Williams-Sonoma, Inc.
+MGY       	Magnolia Oil &amp; Gas Corporation
+NKTX      	Nkarta, Inc.
+CX        	Cemex, S.A.B. de C.V. Sponsored
+IOSP      	Innospec Inc.
+SNPS      	Synopsys, Inc.
+USO       	United States Oil Fund
+CCCC      	C4 Therapeutics, Inc.
+HSKA      	Heska Corporation
+RF        	Regions Financial Corporation
+MLCO      	Melco Resorts &amp; Entertainment L
+SF        	Stifel Financial Corporation
+NUSC      	Nuveen ESG Small-Cap ETF
+SCHK      	Schwab 1000 Index ETF
+PLL       	Piedmont Lithium Inc.
+VMEO      	Vimeo, Inc.
+DBC       	Invesco DB Commodity Index Trac
+FN        	Fabrinet
+ILCG      	iShares Morningstar Large-Cap G
+IWP       	iShares Russell Midcap Growth E
+TTMI      	TTM Technologies, Inc.
+ONEV      	SPDR Russell 1000 Low Volatilit
+APLS      	Apellis Pharmaceuticals, Inc.
+CVAC      	CureVac N.V.
+SANA      	Sana Biotechnology, Inc.
+AVB       	AvalonBay Communities, Inc.
+EWG       	iShares MSCI Germany Index Fund
+FYX       	First Trust Small Cap Core Alph
+KEX       	Kirby Corporation
+MOS       	Mosaic Company
+OZK       	Bank OZK
+SDIV      	Global X SuperDividend ETF
+IBDP      	iShares iBonds Dec 2024 Term Co
+FOXF      	Fox Factory Holding Corp.
+HES       	Hess Corporation
+MT        	Arcelor Mittal NY Registry Shar
+TRUP      	Trupanion, Inc.
+WCC       	WESCO International, Inc.
+PLNT      	Planet Fitness, Inc.
+MJ        	ETFMG Alternative Harvest ETF
+VPU       	Vanguard Utilities ETF
+CATH      	Global X S&amp;P 500 Catholic Value
+DSEY      	Diversey Holdings, Ltd.
+ANF       	Abercrombie &amp; Fitch Company
+DRNA      	Dicerna Pharmaceuticals, Inc.
+FFIN      	First Financial Bankshares, Inc
+MTZ       	MasTec, Inc.
+NYT       	New York Times Company
+EH        	EHang Holdings Limited
+CGW       	Invesco S&amp;P Global Water Index
+IPO       	Renaissance IPO ETF
+PKG       	Packaging Corporation of Americ
+QURE      	uniQure N.V.
+WMS       	Advanced Drainage Systems, Inc.
+SHOP      	Shopify Inc.
+NVCR      	NovoCure Limited
+RSKD      	Riskified Ltd.
+CMI       	Cummins Inc.
+CRI       	Carter&#x27;s, Inc.
+IEI       	iShares 3-7 Year Treasury Bond
+NRG       	NRG Energy, Inc.
+PLUG      	Plug Power, Inc.
+PMVP      	PMV Pharmaceuticals, Inc.
+ABR       	Arbor Realty Trust
+FHN       	First Horizon Corporation
+LIN       	Linde plc
+NTES      	NetEase, Inc.
+PDCO      	Patterson Companies, Inc.
+WPP       	WPP plc
+COPX      	Global X Copper Miners ETF
+IDA       	IDACORP, Inc.
+ONB       	Old National Bancorp
+RNST      	Renasant Corporation
+ASTR      	Astra Space, Inc.
+CFR       	Cullen/Frost Bankers, Inc.
+HAIN      	The Hain Celestial Group, Inc.
+MTCH      	Match Group, Inc.
+MUR       	Murphy Oil Corporation
+SRE       	DBA Sempra
+DNLI      	Denali Therapeutics Inc.
+BBIO      	BridgeBio Pharma, Inc.
+SHCR      	Sharecare, Inc.
+AIRC      	Apartment Income REIT Corp.
+AN        	AutoNation, Inc.
+DD        	DuPont de Nemours, Inc.
+FTXR      	First Trust Nasdaq Transportati
+HYLN      	Hyliion Holdings Corp.
+WAFD      	Washington Federal, Inc.
+CVET      	Covetrus, Inc.
+ITGR      	Integer Holdings Corporation
+MMSI      	Merit Medical Systems, Inc.
+NVDA      	NVIDIA Corporation
+SSYS      	Stratasys, Ltd.
+KOD       	Kodiak Sciences Inc
+XP        	XP Inc.
+GUNR      	FlexShares Global Upstream Natu
+QUOT      	Quotient Technology Inc.
+TWO       	Two Harbors Investment Corp
+BBRE      	JPMorgan BetaBuilders MSCI U.S.
+MUSA      	Murphy USA Inc.
+NAT       	Nordic American Tankers Limited
+SGMS      	Scientific Games Corp
+SSD       	Simpson Manufacturing Company,
+GEM       	Goldman Sachs ActiveBeta Emergi
+CARR      	Carrier Global Corporation
+MBAC      	M3-Brigade Acquisition II Corp.
+CYRX      	CryoPort, Inc.
+MMYT      	MakeMyTrip Limited
+TPTX      	Turning Point Therapeutics, Inc
+BHK       	Blackrock Core Bond Trust Black
+CHH       	Choice Hotels International, In
+DAL       	Delta Air Lines, Inc.
+NICE      	NICE Ltd
+LOVE      	The Lovesac Company
+DBEU      	Xtrackers MSCI Europe Hedged Eq
+KMI       	Kinder Morgan, Inc.
+MAA       	Mid-America Apartment Communiti
+MBUU      	Malibu Boats, Inc.
+PTNQ      	Pacer Trendpilot 100 ETF
+AFRM      	Affirm Holdings, Inc.
+ADS       	Alliance Data Systems Corporati
+CSOD      	Cornerstone OnDemand, Inc.
+GXC       	SPDR S&amp;P China ETF
+JNJ       	Johnson &amp; Johnson
+TTD       	The Trade Desk, Inc.
+OKTA      	Okta, Inc.
+OCDX      	Ortho Clinical Diagnostics Hold
+BKE       	Buckle, Inc.
+CAH       	Cardinal Health, Inc.
+FLS       	Flowserve Corporation
+MCD       	McDonald&#x27;s Corporation
+SBUX      	Starbucks Corporation
+AXSM      	Axsome Therapeutics, Inc.
+PVAC      	Penn Virginia Corporation
+ACC       	American Campus Communities Inc
+ACIW      	ACI Worldwide, Inc.
+AGIO      	Agios Pharmaceuticals, Inc.
+FTSM      	First Trust Enhanced Short Matu
+PCEF      	Invesco CEF Income Composite ET
+SCZ       	iShares MSCI EAFE Small-Cap ETF
+VEU       	Vanguard FTSE All World Ex US E
+AOM       	iShares Core Moderate Allocatio
+COR       	CoreSite Realty Corporation
+INO       	Inovio Pharmaceuticals, Inc.
+MGLN      	Magellan Health, Inc.
+PRU       	Prudential Financial, Inc.
+SHO       	Sunstone Hotel Investors, Inc.
+SIZE      	iShares MSCI USA Size Factor ET
+VXRT      	Vaxart, Inc. - Common Stock
+XTN       	SPDR S&amp;P Transportation ETF
+YNDX      	Yandex N.V.
+MEDP      	Medpace Holdings, Inc.
+GXO       	GXO Logistics, Inc.
+FSLR      	First Solar, Inc.
+GOGL      	Golden Ocean Group Limited
+K         	Kellogg Company
+VIRT      	Virtu Financial, Inc.
+ONEM      	1Life Healthcare, Inc.
+DCT       	Duck Creek Technologies, Inc.
+CRCT      	Cricut, Inc.
+BSX       	Boston Scientific Corporation
+GDEN      	Golden Entertainment, Inc.
+SCHN      	Schnitzer Steel Industries, Inc
+TWOU      	2U, Inc.
+XAR       	SPDR S&amp;P Aerospace &amp; Defense ET
+XLF       	SPDR Select Sector Fund - Finan
+AMG       	Affiliated Managers Group, Inc.
+BLV       	Vanguard Long-Term Bond ETF
+CNC       	Centene Corporation
+CSCO      	Cisco Systems, Inc.
+DLN       	WisdomTree U.S. LargeCap Divide
+FUL       	H. B. Fuller Company
+HMC       	Honda Motor Company, Ltd.
+TGLS      	Tecnoglass Inc.
+EMXC      	iShares MSCI Emerging Markets e
+HYZN      	Hyzon Motors Inc.
+HPP       	Hudson Pacific Properties, Inc.
+HZNP      	Horizon Therapeutics Public Lim
+LHCG      	LHC Group
+ROST      	Ross Stores, Inc.
+VIVO      	Meridian Bioscience Inc.
+SMDV      	ProShares Russell 2000 Dividend
+TOTL      	SPDR DoubleLine Total Return Ta
+RVI       	Retail Value Inc.
+BSJM      	Invesco BulletShares 2022 High
+RPV       	Invesco S&amp;P 500 Pure Value ETF
+TNXP      	Tonix Pharmaceuticals Holding C
+NAOV      	NanoVibronix, Inc.
+AVUS      	Avantis U.S. Equity ETF
+VT        	Vanguard Total World Stock Inde
+ALTM      	Altus Midstream Company
+TOST      	Toast, Inc.
+AME       	AMETEK, Inc.
+AMWD      	American Woodmark Corporation
+CB        	Chubb Limited
+CNI       	Canadian National Railway Compa
+DEI       	Douglas Emmett, Inc.
+FAST      	Fastenal Company
+HWC       	Hancock Whitney Corporation
+SXT       	Sensient Technologies Corporati
+BILL      	Bill.com Holdings, Inc.
+ABEV      	Ambev S.A.
+ASML      	ASML Holding N.V. - New York Re
+ERIC      	Ericsson
+TRTN      	Triton International Limited
+CRBN      	iShares MSCI ACWI Low Carbon Ta
+NXRT      	NexPoint Residential Trust, Inc
+BTI       	British American Tobacco  Indus
+GMED      	Globus Medical, Inc.
+IDEX      	Ideanomics, Inc.
+OEF       	iShares S&amp;P 100 ETF
+QYLD      	Global X NASDAQ-100 Covered Cal
+ORGO      	Organogenesis Holdings Inc.
+ILPT      	Industrial Logistics Properties
+BYND      	Beyond Meat, Inc.
+SNOW      	Snowflake Inc.
+CUZ       	Cousins Properties Incorporated
+FNF       	FNF Group of Fidelity National
+ILCB      	iShares Morningstar Large-Cap E
+KBE       	SPDR S&amp;P Bank ETF
+KIM       	Kimco Realty Corporation
+MTD       	Mettler-Toledo International, I
+PCTY      	Paylocity Holding Corporation
+PRGO      	Perrigo Company plc
+SATS      	EchoStar Corporation
+SIX       	Six Flags Entertainment Corpora
+VTHR      	Vanguard Russell 3000 ETF
+TBK       	Triumph Bancorp, Inc.
+EXLS      	ExlService Holdings, Inc.
+HAUZ      	Xtrackers International Real Es
+MS        	Morgan Stanley
+REGN      	Regeneron Pharmaceuticals, Inc.
+TAK       	Takeda Pharmaceutical Company L
+ATRA      	Atara Biotherapeutics, Inc.
+WMG       	Warner Music Group Corp.
+BBVA      	Banco Bilbao Vizcaya Argentaria
+COHU      	Cohu, Inc.
+DFP       	Flaherty &amp; Crumrine Dynamic Pre
+IGHG      	ProShares Investment Grade-Inte
+JMIA      	Jumia Technologies AG
+IRNT      	IronNet, Inc.
+RBLX      	Roblox Corporation
+PRVA      	Privia Health Group, Inc.
+GPOR      	Gulfport Energy Corporation
+FIGS      	FIGS, Inc.
+AVT       	Avnet, Inc.
+DCI       	Donaldson Company, Inc.
+GLPI      	Gaming and Leisure Properties,
+IT        	Gartner, Inc.
+GLDM      	SPDR Gold MiniShares Trust
+HRMY      	Harmony Biosciences Holdings, I
+SCHD      	Schwab US Dividend Equity ETF
+WD        	Walker &amp; Dunlop, Inc
+LW        	Lamb Weston Holdings, Inc.
+NTCO      	Natura &amp;Co Holding S.A.
+COF       	Capital One Financial Corporati
+DTD       	WisdomTree U.S. Total Dividend
+PXF       	Invesco FTSE RAFI Developed Mar
+SON       	Sonoco Products Company
+USA       	Liberty All-Star Equity Fund
+CSTM      	Constellium SE
+SBRA      	Sabra Health Care REIT, Inc.
+LMRK      	Landmark Infrastructure Partner
+FTC       	First Trust Large Cap Growth Al
+MDYV      	SPDR S&amp;P 400 Mid Cap Value ETF
+VTEB      	Vanguard Tax-Exempt Bond ETF
+JELD      	JELD-WEN Holding, Inc.
+MVST      	Microvast Holdings, Inc.
+SNDL      	Sundial Growers Inc.
+LUNG      	Pulmonx Corporation
+ABM       	ABM Industries Incorporated
+B         	Barnes Group, Inc.
+NMIH      	NMI Holdings Inc
+PNW       	Pinnacle West Capital Corporati
+WLTW      	Willis Towers Watson Public Lim
+WPM       	Wheaton Precious Metals Corp
+USHY      	iShares Broad USD High Yield Co
+NKLA      	Nikola Corporation
+VCIT      	Vanguard Intermediate-Term Corp
+ZLAB      	Zai Lab Limited
+VXX       	iPath Series B S&amp;P 500 VIX Shor
+ABNB      	Airbnb, Inc.
+ACWI      	iShares MSCI ACWI Index Fund
+ORLY      	O&#x27;Reilly Automotive, Inc.
+RCD       	Invesco S&amp;P 500 Equal Weight Co
+SLF       	Sun Life Financial Inc.
+TGNA      	TEGNA Inc
+VYM       	Vanguard High Dividend Yield ET
+REYN      	Reynolds Consumer Products Inc.
+ATOS      	Atossa Therapeutics, Inc.
+ARKG      	ARK Genomic Revolution ETF
+BLDE      	Blade Air Mobility, Inc.
+XM        	Qualtrics International Inc.
+AMR       	Alpha Metallurgical Resources,
+MNDY      	monday.com Ltd.
+AZPN      	Aspen Technology, Inc.
+OMCL      	Omnicell, Inc.
+VECO      	Veeco Instruments Inc.
+SCPL      	SciPlay Corporation
+ARRY      	Array Technologies, Inc.
+CEMB      	iShares J.P. Morgan EM Corporat
+DG        	Dollar General Corporation
+TCMD      	Tactile Systems Technology, Inc
+JPHY      	JPMorgan Research Enhanced High
+TSP       	TuSimple Holdings Inc.
+DX        	Dynex Capital, Inc.
+QTRX      	Quanterix Corporation
+BBIN      	JPMorgan BetaBuilders Internati
+BARK      	The Original BARK Company
+TYRA      	Tyra Biosciences, Inc.
+CG        	The Carlyle Group Inc.
+DISCK     	Discovery, Inc. - Series C
+FE        	FirstEnergy Corp.
+VNO       	Vornado Realty Trust
+IAA       	IAA, Inc.
+GGB       	Gerdau S.A.
+PZZA      	Papa John&#x27;s International, Inc.
+XT        	iShares Exponential Technologie
+ESE       	ESCO Technologies Inc.
+IEP       	Icahn Enterprises L.P. - Deposi
+ESML      	iShares ESG Aware MSCI USA Smal
+AVUV      	Avantis U.S. Small Cap Value ET
+HYFM      	Hydrofarm Holdings Group, Inc.
+APR       	Apria, Inc.
+WEBR      	Weber Inc.
+IDU       	iShares U.S. Utilities ETF
+RGEN      	Repligen Corporation
+VSS       	Vanguard FTSE All-Wld ex-US SmC
+CADE      	Cadence Bancorporation
+WKME      	WalkMe Ltd.
+VERV      	Verve Therapeutics, Inc.
+AEE       	Ameren Corporation
+BHP       	BHP Group Limited
+BIP       	Brookfield Infrastructure Partn
+GT        	The Goodyear Tire &amp; Rubber Comp
+HYEM      	VanEck Emerging Markets High Yi
+RTX       	Raytheon Technologies Corporati
+PRTY      	Party City Holdco Inc.
+BIGC      	BigCommerce Holdings, Inc. - Se
+AJRD      	Aerojet Rocketdyne Holdings, In
+AOSL      	Alpha and Omega Semiconductor L
+CENX      	Century Aluminum Company
+ECOL      	US Ecology, Inc.
+IVR       	INVESCO MORTGAGE CAPITAL INC
+MLPA      	Global X MLP ETF
+GWB       	Great Western Bancorp, Inc.
+HALO      	Halozyme Therapeutics, Inc.
+LANC      	Lancaster Colony Corporation
+SCHZ      	Schwab US Aggregate Bond ETF
+THC       	Tenet Healthcare Corporation
+HESM      	Hess Midstream LP
+RPRX      	Royalty Pharma plc
+DIV       	Global X Super Dividend ETF
+VTC       	Vanguard Total Corporate Bond E
+HLLY      	Holley Inc.
+AEHR      	Aehr Test Systems
+CLH       	Clean Harbors, Inc.
+QQEW      	First Trust NASDAQ-100 Equal We
+XENT      	Intersect ENT, Inc.
+FLQL      	Franklin LibertyQ U.S. Equity E
+JMST      	JPMorgan Ultra-Short Municipal
+MCFE      	McAfee Corp.
+KAMN      	Kaman Corporation
+KOS       	Kosmos Energy Ltd.
+UGI       	UGI Corporation
+ETSY      	Etsy, Inc.
+GTES      	Gates Industrial Corporation pl
+XPEL      	XPEL, Inc.
+EBC       	Eastern Bankshares, Inc.
+BROS      	Dutch Bros Inc.
+ARCB      	ArcBest Corporation
+BG        	Bunge Limited Bunge Limited
+GLOB      	Globant S.A.
+IEF       	iShares 7-10 Year Treasury Bond
+SWK       	Stanley Black &amp; Decker, Inc.
+IRTC      	iRhythm Technologies, Inc.
+FNDC      	Schwab Fundamental Internationa
+HDV       	iShares Core High Dividend ETF
+PGX       	Invesco Preferred ETF
+WTM       	White Mountains Insurance Group
+FRPT      	Freshpet, Inc.
+ALC       	Alcon Inc.
+AVDL      	Avadel Pharmaceuticals plc
+IRM       	Iron Mountain Incorporated
+KMX       	CarMax Inc
+LH        	Laboratory Corporation of Ameri
+WU        	Western Union Company
+IVLU      	iShares MSCI Intl Value Factor
+ZUO       	Zuora, Inc.
+GLW       	Corning Incorporated
+IAG       	Iamgold Corporation
+SAN       	Banco Santander, S.A. Sponsored
+VBK       	Vanguard Small-Cap Growth ETF
+AVTR      	Avantor, Inc.
+BLND      	Blend Labs, Inc.
+AGZ       	iShares  Agency Bond ETF
+CCS       	Century Communities, Inc.
+DBEF      	Xtrackers MSCI EAFE Hedged Equi
+DBI       	Designer Brands Inc.
+IXG       	iShares Global Financial ETF
+YMM       	Full Truck Alliance Co. Ltd.
+TWKS      	Thoughtworks Holding, Inc.
+DNOW      	NOW Inc.
+ENS       	EnerSys
+IBN       	ICICI Bank Limited
+SLCA      	U.S. Silica Holdings, Inc.
+UCBI      	United Community Banks, Inc.
+UYG       	ProShares Ultra Financials
+Z         	Zillow Group, Inc.
+VRRM      	Verra Mobility Corporation
+IHAK      	iShares Cybersecurity and Tech
+CORT      	Corcept Therapeutics Incorporat
+IWD       	iShares Russell 1000 Value ETF
+LFUS      	Littelfuse, Inc.
+NLY       	Annaly Capital Management Inc
+VTRS      	Viatris Inc.
+WMB       	Williams Companies, Inc.
+IGBH      	iShares Interest Rate Hedged Lo
+ARNA      	Arena Pharmaceuticals, Inc.
+GNR       	SPDR S&amp;P Global Natural Resourc
+HMHC      	Houghton Mifflin Harcourt Compa
+JACK      	Jack In The Box Inc.
+MXL       	MaxLinear, Inc.
+ESGD      	iShares ESG Aware MSCI EAFE ETF
+PLBY      	PLBY Group, Inc.
+ROP       	Roper Technologies, Inc.
+THS       	Treehouse Foods, Inc.
+EB        	Eventbrite, Inc.
+GLBE      	Global-E Online Ltd.
+SRAD      	Sportradar Group AG
+AVNT      	Avient Corporation
+CIT       	CIT Group Inc
+INT       	World Fuel Services Corporation
+IWF       	iShares Russell 1000 Growth ETF
+NOBL      	ProShares S&amp;P 500 Dividend Aris
+PNFP      	Pinnacle Financial Partners, In
+ZD        	Ziff Davis, Inc.
+UNIT      	Uniti Group Inc.
+BEAM      	Beam Therapeutics Inc.
+DNMR      	Danimer Scientific, Inc.
+VLTA      	Volta, Inc.
+CEQP      	Crestwood Equity Partners LP
+IGV       	iShares Expanded Tech-Software
+MAR       	Marriott International
+NEM       	Newmont Corporation
+NEO       	NeoGenomics, Inc.
+TTI       	Tetra Technologies, Inc.
+USB       	U.S. Bancorp
+WHR       	Whirlpool Corporation
+DUOL      	Duolingo, Inc.
+EVRG      	Evergy, Inc.
+GEF       	Greif Inc.
+PWV       	Invesco Dynamic Large Cap Value
+GNL       	Global Net Lease, Inc.
+DMTK      	DermTech, Inc.
+XLC       	The Communication Services Sele
+SONM      	Sonim Technologies, Inc.
+OGI       	Organigram Holdings Inc.
+COOK      	Traeger, Inc.
+ANTM      	Anthem, Inc.
+BXC       	Bluelinx Holdings Inc.
+HAE       	Haemonetics Corporation
+LNT       	Alliant Energy Corporation
+SYNA      	Synaptics Incorporated
+IG        	Principal Investment Grade Corp
