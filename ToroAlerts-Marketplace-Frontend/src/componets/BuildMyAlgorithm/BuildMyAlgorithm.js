@@ -411,7 +411,7 @@ const BuildMyAlgorithm = ({
     try {
       const response = await axios.post(`${BASE_URL}/api/trigger/remove`, {
         algorithmCode: algorithmCode,
-        tickerId: [...selectedTickers],
+        tickerIds: [...selectedTickers],
         triggerId: triggerId,
       });
       console.log("Delete", response);

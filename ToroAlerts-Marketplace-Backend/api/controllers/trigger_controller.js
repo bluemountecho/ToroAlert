@@ -107,19 +107,25 @@ const removeTrigger = async (req, res) => {
     }
 
     const { matchedCount, modifiedCount } = await AlgorithmModel.updateOne(
-      { code: algorithmCode, "stocks.triggers": triggerId },
+      { code: algorithmCode, "stocks.tickerId": { $in: tickerIds } },
       {
         $pull: {
-          "stocks.$[stocksFilter].triggers": triggerId,
+          "stocks.$[].triggers": triggerId,
         },
         ...extraUpdateQuery,
-      },
-      {
-        arrayFilters: [{ "stocksFilter.tickerId": { $in: tickerIds } }],
       }
     );
+    
     if (matchedCount !== 1 || modifiedCount !== 1) {
-      throw new CustomError("Failed to add trigger");
+      throw new CustomError("Failed to remove trigger from Algorithm");
+    }
+
+    const isDeleted = await TriggerModel.deleteOne({_id: triggerId});
+
+    if (!isDeleted) {
+      throw new CustomError(
+        "Failed to delete trigger make sure it exists/allowed to delete"
+      );
     }
     res.status(200).json({ success: true });
   } catch (err) {
@@ -129,7 +135,7 @@ const removeTrigger = async (req, res) => {
       message:
         err.type === "custom_err"
           ? err.message
-          : "Failed to create trigger make sure, you are posting a valid trigger data",
+          : "Failed to remove trigger make sure, you are posting a valid trigger data",
     });
   }
 };
