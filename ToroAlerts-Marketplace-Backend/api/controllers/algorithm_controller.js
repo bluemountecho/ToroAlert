@@ -5,6 +5,11 @@ const { sanitize } = require("../utils/data-handlers");
 const { CustomError } = require("../utils/error-handlers");
 const { generateAlgorithmCode } = require("../utils/codeGenerator");
 const LeaseModel = require("../models/lease");
+
+const db = require("../models");
+const Algorithm = db.algorithms;
+const Op = db.Sequelize.Op;
+
 const allowedStocksOperations = [
   "update",
   // "add",
@@ -458,11 +463,34 @@ const backtestAlgorithm = async (req, res) => {
         "Algorithm is locked and cant be updated/backtested now"
       );
     }
+    
+
+
     const backtest = await BacktestModel.create({
       algorithm: algorithm._id,
       algorithmVersion: algorithm.version,
       algorithmData: algorithm,
     });
+      
+    console.log(algorithm);
+      // Create a Algorithm object
+      const algorithm_s = {
+        stocks: JSON.stringify(algorithm.stocks),
+        stoploss: JSON.stringify(algorithm.stopLoss),
+        min_capital: algorithm.minCapital,
+        max_capital: algorithm.maxCapital,
+        algorithm_id: algorithm._id,
+        backtest_id: backtest._id
+      };
+
+      // Save Algorithm in the database
+      Algorithm.create(algorithm_s)
+      .then(data => {
+        console.log(data);
+      })
+      .catch(err => {
+        console.log(err);
+      });
     const { matchedCount, modifiedCount } = await AlgorithmModel.updateOne(
       { code, version: algorithm.version },
       {

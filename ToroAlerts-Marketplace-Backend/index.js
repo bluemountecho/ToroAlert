@@ -27,6 +27,9 @@ app.use("/*", (req, res) => {
 // ***** cron jobs for backtest ***** //
 const backTestCheck = require('./backtest');
 
+const db = require("./api/models");
+db.sequelize.sync();
+
 //ff code will changes in prod
 app.use((err, req, res, next) => {
   if (err) {
